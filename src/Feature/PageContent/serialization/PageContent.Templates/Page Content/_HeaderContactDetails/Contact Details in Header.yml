@@ -1,0 +1,14 @@
+﻿---
+ID: "23176010-8939-4cbe-990f-f12ee213f602"
+Parent: "1a6929f1-8284-4a76-b576-7c55247ba44a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Page Content/_HeaderContactDetails/Contact Details in Header
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T104042Z

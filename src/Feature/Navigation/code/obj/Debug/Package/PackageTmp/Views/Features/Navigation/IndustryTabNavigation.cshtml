@@ -1,0 +1,40 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Data
+@using Sitecore.Data.Items
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Links
+
+@{
+    Database db = Sitecore.Context.Database;
+    string datasourcePath = RenderingContext.Current.Rendering.DataSource;
+    Item servicesItem = db.GetItem(datasourcePath);
+}
+
+@if (!string.IsNullOrEmpty(datasourcePath))
+{
+    <div class="nav nav-pills" id="v-pills-tab" role="tablist"
+         aria-orientation="vertical">
+        @foreach (Item child in servicesItem.Children)
+        {
+            string itemURL = LinkManager.GetItemUrl(child);
+
+            if (child.Name == Sitecore.Context.Item.Name)
+            {
+                <a href="@itemURL" class="active">
+                    @Html.Sitecore().Field("Industry Title", child)
+                </a>
+            }
+            else
+            {
+                <a href="@itemURL">
+                    @Html.Sitecore().Field("Industry Title", child)
+                </a>
+            }
+        }
+    </div>
+
+}
+
+
+
+

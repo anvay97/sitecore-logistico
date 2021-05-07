@@ -1,0 +1,28 @@
+﻿---
+ID: "51ee8a36-0e2f-4b1e-9dfb-f73ca742e14b"
+Parent: "6b5f5a62-f292-43b8-b15d-605ea85a4052"
+Template: "538a54ce-ece6-4fa4-b2cb-9273aa8e1c31"
+Path: /sitecore/content/Global/Header/Header Contact
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/ecm.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T114156Z
+    - ID: "3ebee685-6625-4b7a-b349-29e84892a300"
+      Hint: Email
+      Value: info@docmed.com
+    - ID: "56467e4b-e749-49df-852e-e474b09455ad"
+      Hint: Phone
+      Value: "1601-609 6780"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

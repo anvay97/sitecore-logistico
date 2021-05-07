@@ -1,0 +1,18 @@
+﻿---
+ID: "ca8e3bc0-8bcc-49fd-917d-c9c0f0954cda"
+Parent: "bbd10a53-ce2a-442f-8858-2150c0805e2d"
+Template: "9fcad58f-a563-44fa-a4e9-ce0e1d1c5493"
+Path: /sitecore/content/Home/Services/Land Transport1/Brochures
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E490C442-B0BF-4213-B38C-813184CFDD79}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T111212Z

@@ -1,0 +1,21 @@
+﻿---
+ID: "66b8a91c-94d8-4e0d-997a-4f9da4dff0a7"
+Parent: "94176014-1a2e-4ee9-a3bd-35e917d48805"
+Template: "6f241aea-e957-499d-9b6c-7a28e7c3d651"
+Path: /sitecore/content/Global/Map Details/MapAddress
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T102318Z
+    - ID: "2a6117d5-052e-4444-bff1-7037eef754e6"
+      Hint: MapRoute
+      Value: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30261.40219673498!2d73.91150079358468!3d18.54357076183007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd321708ac4d45fc8!2sCybage%20Software%20Private%20Limited!5e0!3m2!1sen!2sin!4v1598251263302!5m2!1sen!2sin"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

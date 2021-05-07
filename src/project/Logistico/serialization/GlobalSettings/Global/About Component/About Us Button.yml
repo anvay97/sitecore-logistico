@@ -1,0 +1,29 @@
+﻿---
+ID: "5cdd8d6e-a3fd-42cb-b9f1-a1b22038ceb2"
+Parent: "d8c83892-7870-4d6c-a143-de23befcd64f"
+Template: "2b7942f3-bc97-421e-a208-4bf46148fb5a"
+Path: /sitecore/content/Global/About Component/About Us Button
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/bullet_ball_red.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T112822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d935f81c-1348-4876-9b12-536afa8858c4"
+      Hint: Label
+      Value: About Us
+    - ID: "f2a2172b-0e27-40fc-b86f-779c06139eff"
+      Hint: Link
+      Value: |
+        <link text="About Us" anchor="" linktype="internal" class="" title=""  querystring="" id="{565A6E7D-2C1D-4ACC-9B55-5A75FEE295A8}" />

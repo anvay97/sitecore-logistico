@@ -1,0 +1,108 @@
+﻿---
+ID: "35937d4c-7f03-45bc-8aa8-c652e3653e2b"
+Parent: "badd4f5c-3942-42e5-824c-8a7879269b92"
+Template: "b9944c18-a244-4ed2-95ca-b386620ae295"
+Path: /sitecore/content/Home/Testimonial
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{23BEF062-42B1-4CCE-966C-1B7DE2A12542}">
+        <r
+          id="{673C4C9D-0248-444E-9FAC-32C2C4442AC4}"
+          ph="header"
+          uid="{9EE4DA89-2CC9-4A68-A81D-C30D68D68961}" />
+        <r
+          id="{60D28252-1BB9-4397-9E75-7263F950DE4D}"
+          ph="footer"
+          uid="{DE8587BE-2E10-4EF7-9769-08E3CE231512}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="header-logo"
+          uid="{1077C699-9990-4F2D-B33F-0B02B1B86CDE}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="header-logo-1"
+          uid="{5B63A792-1108-487B-9B6C-D23243843BAC}" />
+        <r
+          id="{E1EB8E63-BA41-4AB8-BAB7-59F4732AB3B0}"
+          ph="copyright-text"
+          uid="{D04E5918-F192-46D1-AF4E-5F39C3B5B152}" />
+        <r
+          id="{42B2A03B-24C4-4CDA-8B4E-5400EA88CC95}"
+          ph="header-rightcorner"
+          uid="{EBBFB60D-0FEC-4608-B46A-60DF58F346A0}" />
+        <r
+          ds="{AB6EF884-B9B5-4668-AF2F-EF097CE3402A}"
+          id="{64D8DB8F-F97F-4F41-8A9B-50EF1EB91B4A}"
+          par=""
+          ph="header-cta"
+          uid="{65337C15-9841-4534-B7E6-A09C1C98C6B2}" />
+        <r
+          ds="{5EE0D879-4685-4A0B-B78B-98B9A614B00E}"
+          id="{6975DA02-523F-44A5-A29A-9F4601CF1ED1}"
+          par=""
+          ph="footer-links"
+          uid="{51F583E4-11BB-419B-8A91-D3A16B2550F7}" />
+        <r
+          ds="{9BB538E1-55AE-47D7-AAD6-CA220B66A42C}"
+          id="{094030F6-55F2-4D79-AD62-32206EA0FDF7}"
+          par=""
+          ph="header-nav"
+          uid="{DD8EC03C-BCF5-4238-8DFA-C4734CF5ECCD}" />
+        <r
+          id="{B03478B5-E99D-497F-808F-E74F8BF9ADAE}"
+          ph="subscribe-form"
+          uid="{0FD7E607-12AD-413A-B29C-E15AB185D6D8}" />
+        <r
+          ds="{4F8C906F-C132-46C1-81A6-4B74912E7687}"
+          id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+          par=""
+          ph="Subscribe_Form"
+          uid="{6F6535F6-0BF9-4F87-9DE1-05BD5BB75474}" />
+        <r
+          id="{1AB02A79-962F-4B08-A39C-B101AF87D2F8}"
+          ph="main"
+          uid="{BA7F7545-C731-4178-847D-D25E4B6DC56A}" />
+        <r
+          ds="{B33699CF-CCDC-475D-A549-F7B3B40BAFC0}"
+          id="{87889C97-7468-485A-A9A8-01C51DD610C3}"
+          par=""
+          ph="main"
+          uid="{381920EE-84DF-40D0-A8F0-C17B7B827FEA}" />
+        <r
+          id="{FF8B467A-4A1A-46E9-A4B5-1BBEF06D9330}"
+          ph="metadata"
+          uid="{C21DE8CD-A384-4165-B8EE-D4152BFF2705}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c31b06a-1e0c-4d49-9568-fe87f9c06c58"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{14702008-D1D5-4C4B-BD4A-62F825512588}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T101040Z
+    - ID: "50b0c548-2176-4a00-964f-c6c388a623cb"
+      Hint: OG Title
+      Value: Testimonials | Logistico
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8db7ae53-02a4-4414-906a-89645979024a"
+      Hint: Meta Title
+      Value: Testimonials | Logistico
+    - ID: "eed828e9-636a-4506-a298-846164670f83"
+      Hint: Banner Title
+      Value: Testimonial

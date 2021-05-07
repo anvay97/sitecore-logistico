@@ -1,0 +1,39 @@
+﻿---
+ID: "0fed3cf9-e6fc-4c29-acd9-4a9f0c717e89"
+Parent: "d8c83892-7870-4d6c-a143-de23befcd64f"
+Template: "6e203ffd-0ec0-4c93-9af5-660e3ccfee6d"
+Path: /sitecore/content/Global/About Component/AboutInfo Content
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/edit.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T112713Z
+    - ID: "49fa7d29-75d0-435d-9ab1-7dfedea4f6f7"
+      Hint: Description
+      Value: |
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt.
+        </p>
+        <ul>
+            <li> Apartments frequently or motionless. </li>
+            <li> Duis aute irure dolor in reprehenderit in voluptate. </li>
+            <li> Voluptatem quia voluptas sit aspernatur.</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9ee4bcd2-d211-4cc2-b166-ae31a97dace6"
+      Hint: Title
+      Value: "Why Choose Us?"
+    - ID: "ca06b16c-8d41-44e9-9db3-7542bec792a9"
+      Hint: About Image
+      Value: |
+        <image mediaid="{634026CB-235E-476C-94EF-4336157DCC2A}" />

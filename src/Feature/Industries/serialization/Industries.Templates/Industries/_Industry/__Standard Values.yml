@@ -1,0 +1,21 @@
+﻿---
+ID: "9549e4fc-f630-4845-a34d-7d0140a99b80"
+Parent: "0265593d-7882-4a77-baf1-84aec59a1e08"
+Template: "0265593d-7882-4a77-baf1-84aec59a1e08"
+Path: /sitecore/templates/Feature/Industries/_Industry/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T110010Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a165653-6c58-4142-85bb-f2ca621145d2"
+      Hint: Industry Title
+      Value: $name

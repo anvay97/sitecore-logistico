@@ -1,0 +1,6 @@
+D:\Anvay\Sitecore\Logistico\src\Feature\ContactUs\code\bin\Logistico.Feature.ContactUs.dll.config
+D:\Anvay\Sitecore\Logistico\src\Feature\ContactUs\code\bin\Logistico.Feature.ContactUs.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\ContactUs\code\bin\Logistico.Feature.ContactUs.pdb
+D:\Anvay\Sitecore\Logistico\src\Feature\ContactUs\code\obj\Debug\Logistico.Feature.ContactUs.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\ContactUs\code\obj\Debug\Logistico.Feature.ContactUs.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\ContactUs\code\obj\Debug\Logistico.Feature.ContactUs.pdb

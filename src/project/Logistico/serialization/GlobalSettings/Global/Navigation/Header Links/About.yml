@@ -1,0 +1,25 @@
+﻿---
+ID: "98a5c26c-48eb-41ff-a310-bef052b36ef5"
+Parent: "9bb538e1-55ae-47d7-aad6-ca220b66a42c"
+Template: "be94a9f9-b851-4e6b-9bad-b937a749aa0f"
+Path: /sitecore/content/Global/Navigation/Header Links/About
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T114951Z
+    - ID: "4f58afdd-0de7-4262-8f8f-dc961a934556"
+      Hint: Nav Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{565A6E7D-2C1D-4ACC-9B55-5A75FEE295A8}" />
+    - ID: "e73422da-1f3c-47c3-a04e-10b354e54183"
+      Hint: Nav Title
+      Value: About

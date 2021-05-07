@@ -1,0 +1,32 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Data.Items
+@using Sitecore.Data.Fields
+
+@{
+    Item item = Sitecore.Context.Item;
+    ImageField imgField = item.Fields["Banner Image"];
+    string imgLink = string.Empty;
+    if (imgField != null && imgField.MediaItem != null)
+    {
+        imgLink = Sitecore.Resources.Media.MediaManager.GetMediaUrl(imgField.MediaItem);
+    }
+}
+
+<style>
+    .bradcam_bg_1 {
+        background-image: url(@imgLink);
+    }
+</style>
+
+<div class="bradcam_area bradcam_bg_1">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text text-center">
+                    <h3>@Html.Sitecore().Field("Banner Title")</h3>
+                    @Html.Sitecore().Field("Link", item, new { @class = "boxed-btn3", text = @Html.Sitecore().Field("Label", item) })
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

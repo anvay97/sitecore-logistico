@@ -1,0 +1,22 @@
+﻿---
+ID: "1fbc00fd-e333-404c-aae0-1622645414ec"
+Parent: "648c2ad2-9db6-4762-aa97-cdfc8e71115b"
+Template: "cfee7b51-8505-45ce-b843-9358f827df87"
+Path: /sitecore/Forms/Contact Form/Page(2)
+DB: master
+SharedFields:
+- ID: "71c6de8e-4718-4977-b83e-b49552ee14b0"
+  Hint: Conditions
+  Value: |
+    {"fieldConditions":[]}
+- ID: "84ece662-5034-40cb-9c60-744db64bb294"
+  Hint: Field Key
+  Value: A49585D3F8BC40F9835964B827CEF87C
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T091205Z

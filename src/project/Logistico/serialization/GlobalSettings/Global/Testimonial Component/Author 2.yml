@@ -1,0 +1,37 @@
+﻿---
+ID: "4dacba78-819b-4cc6-bdf2-86ea15640eaf"
+Parent: "b33699cf-ccdc-475d-a549-f7b3b40bafc0"
+Template: "57ca3809-8945-4ea9-9cdc-f37fd8a76b35"
+Path: /sitecore/content/Global/Testimonial Component/Author 2
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: people/16x16/user1.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T100140Z
+    - ID: "2ff20072-4f25-4959-9de5-676f64f44392"
+      Hint: Author Image
+      Value: |
+        <image mediaid="{108210DB-4613-470A-9C01-D61390CA52F4}" />
+    - ID: "3f9c67d5-fcd1-40c0-9635-d91b16029df6"
+      Hint: Author Name
+      Value: Robert Thomson
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7f695518-08bb-486e-9c85-af14a4b74ae5"
+      Hint: Author Designation
+      Value: Business Owner
+    - ID: "bfca7791-4ca3-4ebc-a320-96eb30703aee"
+      Hint: Author Description
+      Value: |
+        <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor sollicitudin.
+        Pellentesque id dolor tempor sapien feugiat ultrices.</p>

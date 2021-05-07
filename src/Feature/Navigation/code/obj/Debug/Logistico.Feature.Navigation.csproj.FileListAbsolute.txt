@@ -1,0 +1,6 @@
+D:\Anvay\Sitecore\Logistico\src\Feature\Navigation\code\bin\Logistico.Feature.Navigation.dll.config
+D:\Anvay\Sitecore\Logistico\src\Feature\Navigation\code\bin\Logistico.Feature.Navigation.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Navigation\code\bin\Logistico.Feature.Navigation.pdb
+D:\Anvay\Sitecore\Logistico\src\Feature\Navigation\code\obj\Debug\Logistico.Feature.Navigation.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\Navigation\code\obj\Debug\Logistico.Feature.Navigation.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Navigation\code\obj\Debug\Logistico.Feature.Navigation.pdb

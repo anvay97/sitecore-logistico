@@ -1,0 +1,23 @@
+﻿---
+ID: "3c7049e0-4da5-439e-b746-54ad320a9ce3"
+Parent: "f2acc572-715c-4b64-a106-6bf13197c66f"
+Template: "f2acc572-715c-4b64-a106-6bf13197c66f"
+Path: /sitecore/templates/Project/Logistico/Containers/Success Figure Component/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{AE58F0EB-E9FC-43BB-BEA0-F45CC9E6A57F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T093406Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

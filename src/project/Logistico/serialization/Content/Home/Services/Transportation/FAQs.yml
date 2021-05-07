@@ -1,0 +1,22 @@
+﻿---
+ID: "b01d42bb-c93e-4ae6-8e58-04f544201dfe"
+Parent: "379e5626-2a03-40d7-81f5-a627a25c7f09"
+Template: "db906ad8-45d9-4c6a-9cbc-9ab75981d647"
+Path: /sitecore/content/Home/Services/Transportation/FAQs
+DB: master
+BranchID: "5a97396d-f74c-4636-9c94-e2d545514eba"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{316A8DFB-A559-4D37-98D5-4FBE2FC03BD2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200825T090637Z

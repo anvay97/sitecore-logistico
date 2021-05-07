@@ -1,0 +1,18 @@
+﻿---
+ID: "39269f7e-d612-4c9b-8d30-6fe6633a4e18"
+Parent: "decb9aa8-1c7b-4dbe-8991-3008191b5fa5"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/MetaData/_Metadata/OpenGraph Tags
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T071110Z

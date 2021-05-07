@@ -1,0 +1,242 @@
+﻿---
+ID: "badd4f5c-3942-42e5-824c-8a7879269b92"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "18f208a4-234e-4b7a-ae2a-9503c2d34b83"
+Path: /sitecore/content/Home
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{B9944C18-A244-4ED2-95CA-B386620AE295}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{23BEF062-42B1-4CCE-966C-1B7DE2A12542}">
+        <r
+          ds=""
+          id="{673C4C9D-0248-444E-9FAC-32C2C4442AC4}"
+          par=""
+          ph="header"
+          uid="{9EE4DA89-2CC9-4A68-A81D-C30D68D68961}" />
+        <r
+          id="{60D28252-1BB9-4397-9E75-7263F950DE4D}"
+          ph="footer"
+          uid="{DE8587BE-2E10-4EF7-9769-08E3CE231512}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="header-logo"
+          uid="{1077C699-9990-4F2D-B33F-0B02B1B86CDE}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="header-logo-1"
+          uid="{5B63A792-1108-487B-9B6C-D23243843BAC}" />
+        <r
+          id="{42B2A03B-24C4-4CDA-8B4E-5400EA88CC95}"
+          ph="header-rightcorner"
+          uid="{51F1CD94-073D-4D1A-9E5D-ED0F5927EFD7}" />
+        <r
+          ds="{AB6EF884-B9B5-4668-AF2F-EF097CE3402A}"
+          id="{64D8DB8F-F97F-4F41-8A9B-50EF1EB91B4A}"
+          par=""
+          ph="header-cta"
+          uid="{70DD1107-667C-4312-87FD-BAF4359F1AE8}" />
+        <r
+          ds=""
+          id="{DDA8C849-C938-4E4D-BD06-1103FC745ED8}"
+          par="css=blue"
+          ph="main"
+          uid="{F4F8D09E-5059-4697-8154-C50752C54BEF}" />
+        <r
+          ds="{96ED43C1-53C7-440C-AE15-E8DEF4BBA917}"
+          id="{11F35189-15CE-42CD-A33A-0E6BA49E1AF3}"
+          par=""
+          ph="main"
+          uid="{5FDB63AF-9894-4F85-955D-87E1792A06B2}" />
+        <r
+          ds="{96ED43C1-53C7-440C-AE15-E8DEF4BBA917}"
+          id="{DA4D111B-0944-4C92-91A4-1975E94DF093}"
+          par=""
+          ph="main"
+          uid="{AB2EE6EC-EC82-4A2B-9F3F-677596D079AA}" />
+        <r
+          ds="{9EC0A178-0D88-4020-94F1-14C29FB8F2C9}"
+          id="{B099E49C-24C4-4328-A25D-7E98937DD61E}"
+          par=""
+          ph="main"
+          uid="{AD2AEE81-E725-4F59-B100-B4EBDAC54720}" />
+        <r
+          id="{3189C11A-62E8-467C-9E78-3807E197ADC4}"
+          ph="main"
+          uid="{8D2C3386-F0F8-4EC4-ADF0-C23020F95796}" />
+        <r
+          ds="{5CDD8D6E-A3FD-42CB-B9F1-A1B22038CEB2}"
+          id="{64D8DB8F-F97F-4F41-8A9B-50EF1EB91B4A}"
+          par=""
+          ph="about-cta-button"
+          uid="{83979F50-14DF-4D1C-8956-FFBA0735E648}" />
+        <r
+          ds="{961B5286-7010-4625-9EC5-929C81915230}"
+          id="{BC45A961-0433-4787-9525-59189A06A76C}"
+          par=""
+          ph="main"
+          uid="{05B35E5B-8409-49B7-A0D0-556D7FF10CF4}" />
+        <r
+          ds="{B33699CF-CCDC-475D-A549-F7B3B40BAFC0}"
+          id="{25F11C3E-032A-4F3A-858B-AE38C3D54553}"
+          par=""
+          ph="main"
+          uid="{1157DC4D-0E7E-477C-8F68-4535B4804445}" />
+        <r
+          id="{E1EB8E63-BA41-4AB8-BAB7-59F4732AB3B0}"
+          ph="copyright-text"
+          uid="{D04E5918-F192-46D1-AF4E-5F39C3B5B152}" />
+        <r
+          id="{75F59677-3D16-47CE-9534-538677B7F8E0}"
+          ph="main"
+          uid="{1DEE53AF-3BE5-45C8-A2A5-7548D296D00F}" />
+        <r
+          id="{9EF6EE66-AC75-48AC-B1D8-CB6829F5FD57}"
+          ph="main"
+          uid="{5A45FDB4-F42C-46B1-B5EB-E0E050E99E20}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="bottom-logo"
+          uid="{DD6F77AB-681A-4E3F-96D6-D31C41250A14}" />
+        <r
+          ds="{188310BB-8D03-4B11-9675-6A520B4164A9}"
+          id="{D19287DD-ED5C-44BF-80EB-2E01BD26657D}"
+          par=""
+          ph="social-media"
+          uid="{E6409599-2AA1-4A25-951E-42F1E215192C}" />
+        <r
+          ds="{E3D47521-7A69-43F5-9001-EC0BC4057A0B}"
+          id="{C20DCC8C-9081-4D71-9137-9756D40C6D3C}"
+          par=""
+          ph="bottom-location"
+          uid="{C6F340BE-545C-44C1-848C-B6CA876C9E72}" />
+        <r
+          ds="{4F8C906F-C132-46C1-81A6-4B74912E7687}"
+          id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+          par=""
+          ph="subscribe_form"
+          uid="{924FB78D-61C9-41E1-A19A-B43C574C986D}" />
+        <r
+          id="{B03478B5-E99D-497F-808F-E74F8BF9ADAE}"
+          ph="subscribe-form"
+          uid="{4B192C68-41F0-4DA4-BA3C-4EBA0292BFF5}" />
+        <r
+          ds="{5EE0D879-4685-4A0B-B78B-98B9A614B00E}"
+          id="{6975DA02-523F-44A5-A29A-9F4601CF1ED1}"
+          par=""
+          ph="footer-links"
+          uid="{A88D88D9-16A5-4958-8F71-D2F1C8F07A2F}" />
+        <r
+          ds="{9BB538E1-55AE-47D7-AAD6-CA220B66A42C}"
+          id="{094030F6-55F2-4D79-AD62-32206EA0FDF7}"
+          par=""
+          ph="header-nav"
+          uid="{972CCC1C-A171-4EB1-AECD-45F438818F3D}" />
+        <r
+          id="{FF8B467A-4A1A-46E9-A4B5-1BBEF06D9330}"
+          ph="metadata"
+          uid="{9E1E2B0D-C6E2-4463-9432-17DA2E97DC35}" />
+        <r
+          ds="{E2A3D098-C749-4679-BB2A-C3ACA007AAA1}"
+          id="{78ECEE16-BB50-4311-95B1-563A715059F7}"
+          par=""
+          ph="estimation-form-promo"
+          uid="{7E56EF15-34BD-4397-9205-C933A65DADE4}" />
+        <r
+          ds="{DFF81D9E-3D1F-45E7-9A32-625FFE4F0441}"
+          id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+          par=""
+          ph="estimation-form"
+          uid="{7B407B03-A82A-4771-B1F9-E1EC1EFBB4EF}" />
+        <r
+          id="{FF8B467A-4A1A-46E9-A4B5-1BBEF06D9330}"
+          ph="metadata"
+          uid="{E65F16FA-6CCD-4410-B4A9-77023E5C4653}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F675F59E-62C3-4CDB-AB83-CC80C08FF307}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{CC7FA916-F089-489A-B496-21FAB2BAF7F8}"
+              s:par="TestCSS=TEST&amp;TestCSS1=abc"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "0a69877a-b0c4-47bd-b94b-2f429580ebc9"
+      Hint: Meta Description
+      Value: This is a Proof of Concepts project on Sitecore
+    - ID: "0c31b06a-1e0c-4d49-9568-fe87f9c06c58"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{14702008-D1D5-4C4B-BD4A-62F825512588}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200817T113448Z
+    - ID: "3205621d-7a17-4bc5-b5ee-d0a961e3d186"
+      Hint: Logo
+      Value: |
+        <image mediaid="{181A59D0-CE3D-40FE-8AB5-CAC2C36FC600}" />
+    - ID: "50b0c548-2176-4a00-964f-c6c388a623cb"
+      Hint: OG Title
+      Value: "Logistico - A Project by ECM CoE"
+    - ID: "72f51551-f9bf-4b34-aba5-a89c8bd9b7ca"
+      Hint: OG Description
+      Value: This is a Proof of Concepts project on Sitecore
+    - ID: "8c434534-e4d4-4ae8-8a04-16c5689be970"
+      Hint: Banner SubTitle
+      Value: Global Logistic Service For Business
+    - ID: "8db7ae53-02a4-4414-906a-89645979024a"
+      Hint: Meta Title
+      Value: "Logistico - A Project by ECM CoE"
+    - ID: "d935f81c-1348-4876-9b12-536afa8858c4"
+      Hint: Label
+      Value: Our Services
+    - ID: "eed828e9-636a-4506-a298-846164670f83"
+      Hint: Banner Title
+      Value: For Personal & Business
+    - ID: "ef64dc12-8f2a-48e7-adb9-6304c7174983"
+      Hint: Copyright Text
+      Value: |
+        <p class="copy_right text-center">
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy; All rights reserved | This template is made with <em class="fa fa-heart-o" aria-hidden="true"></em> by <a rel="noopener noreferrer" href="https://colorlib.com" target="_blank">Colorlib</a>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        </p>
+    - ID: "f2a2172b-0e27-40fc-b86f-779c06139eff"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.google.com" anchor="" target="_blank" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200911T102325Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

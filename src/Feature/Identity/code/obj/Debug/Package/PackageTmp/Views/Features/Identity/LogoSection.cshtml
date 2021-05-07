@@ -1,0 +1,15 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Data
+@using Sitecore.Data.Items
+
+@{ 
+    Database db = Sitecore.Context.Database;
+    Item LogoItem = db.GetItem("{BADD4F5C-3942-42E5-824C-8A7879269B92}");
+}
+
+<div class="logo">
+    <a href="/">
+        @Html.Sitecore().Field("Logo", LogoItem)
+    </a>
+</div>

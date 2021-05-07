@@ -1,0 +1,14 @@
+﻿---
+ID: "ae980797-420d-42d7-8b3d-2e2851d20a89"
+Parent: "DEA49DE7-7A16-4DE6-BA29-1871E806B28C"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Logistico/Document/Ocean Freight Documents
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200827T064636Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "1253b008-4bc7-4bc4-8459-f3d63062aa19"
+Parent: "d9abc2da-49c2-4177-8d79-0a8f551ad7fd"
+Template: "d9abc2da-49c2-4177-8d79-0a8f551ad7fd"
+Path: /sitecore/templates/Feature/Promo/_Promo/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T114620Z
+    - ID: "4b6ba71b-6511-4d02-bd48-a427169df6df"
+      Hint: CTA Text
+      Value: +10 672 457 356
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a63abe95-6e60-485e-addc-2eaef47cb96d"
+      Hint: Promo Subtitle
+      Value: Esteem spirit temper too say adieus who direct esteem. It look estee luckily or picture placing drawing.
+    - ID: "f0e5baa1-ca4a-48b1-8fea-52324a5e68dd"
+      Hint: Promo Title
+      Value: 100% secure and safe

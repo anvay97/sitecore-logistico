@@ -1,0 +1,14 @@
+﻿---
+ID: "f0864ec3-9a57-4c05-8f98-2c686843e1e0"
+Parent: "decb9aa8-1c7b-4dbe-8991-3008191b5fa5"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/MetaData/_Metadata/Metadata Tags
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T070923Z

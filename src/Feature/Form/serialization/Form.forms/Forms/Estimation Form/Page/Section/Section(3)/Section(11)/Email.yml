@@ -1,0 +1,38 @@
+﻿---
+ID: "5b89ca19-5b87-466f-ad7e-1f1b288d7512"
+Parent: "a4b027ff-0395-4170-8272-ee446cf5466c"
+Template: "886adec1-abf8-40e1-9926-d9189c4e8e1b"
+Path: /sitecore/Forms/Estimation Form/Page/Section/Section(3)/Section(11)/Email
+DB: master
+SharedFields:
+- ID: "71c6de8e-4718-4977-b83e-b49552ee14b0"
+  Hint: Conditions
+  Value: |
+    {"fieldConditions":[]}
+- ID: "84ece662-5034-40cb-9c60-744db64bb294"
+  Hint: Field Key
+  Value: 0F6038AB11784C78A91F70EB185C3001
+- ID: "8a43af61-0812-4b37-a343-96cde3f12bb1"
+  Hint: Required
+  Type: Checkbox
+  Value: 1
+- ID: "9f7da002-7b86-436b-8dda-7efe5837b88e"
+  Hint: Min Length
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200821T081837Z
+    - ID: "71ffd7b2-8b09-4f7b-8a66-1e4cef653e8d"
+      Hint: Title
+      Value: 
+    - ID: "a6972f08-cbb5-4830-a8c9-8a0ae34650d1"
+      Hint: Placeholder Text
+      Value: Email

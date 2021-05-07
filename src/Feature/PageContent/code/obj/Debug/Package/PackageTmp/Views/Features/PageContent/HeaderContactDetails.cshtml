@@ -1,0 +1,16 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Data
+@using Sitecore.Data.Items
+
+@{ 
+    Database db = Sitecore.Context.Database;
+    Item LogoItem = db.GetItem("{51EE8A36-0E2F-4B1E-9DFB-F73CA742E14B}");
+}
+
+<div class="short_contact_list">
+    <ul>
+        <li><a href="#"> <i class="fa fa-envelope"></i> @Html.Sitecore().Field("Email", LogoItem)</a></li>
+        <li><a href="#"> <i class="fa fa-phone"></i> @Html.Sitecore().Field("Phone", LogoItem)</a></li>
+    </ul>
+</div>

@@ -1,0 +1,21 @@
+﻿---
+ID: "49ab42af-a490-432d-9dfa-dc5a2bb13527"
+Parent: "39a74543-17c1-40b3-a353-2ad25599c0b3"
+Template: "db906ad8-45d9-4c6a-9cbc-9ab75981d647"
+Path: /sitecore/content/Home/Services/Ocean Freigh1/FAQs
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{316A8DFB-A559-4D37-98D5-4FBE2FC03BD2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T111212Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "0326e8e6-05b2-4616-b247-df755c926a79"
+Parent: "dff81d9e-3d1f-45e7-9a32-625ffe4f0441"
+Template: "cfee7b51-8505-45ce-b843-9358f827df87"
+Path: /sitecore/Forms/Estimation Form/Page
+DB: master
+SharedFields:
+- ID: "71c6de8e-4718-4977-b83e-b49552ee14b0"
+  Hint: Conditions
+  Value: |
+    {"fieldConditions":[]}
+- ID: "84ece662-5034-40cb-9c60-744db64bb294"
+  Hint: Field Key
+  Value: 2732F37584254DB7AD6521833C417A60
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200821T075614Z

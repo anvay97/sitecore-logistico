@@ -1,0 +1,14 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Data
+@using Sitecore.Data.Items
+
+@{
+    Database db = Sitecore.Context.Database;
+    Item mapFinder = db.GetItem("{66B8A91C-94D8-4E0D-997A-4F9DA4DFF0A7}");
+}
+
+<div class="d-none d-sm-block mb-5 pb-4">
+    <iframe src="@Html.Sitecore().Field("MapRoute", mapFinder)" 
+            width="1100" height="450" frameborder="0" style="border:0;" allowfullscreen="" 
+            aria-hidden="false" tabindex="0"></iframe>
+</div>

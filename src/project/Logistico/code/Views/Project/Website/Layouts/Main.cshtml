@@ -1,0 +1,42 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore.ExperienceForms.Mvc.Html
+@using Sitecore.Mvc.Analytics.Extensions
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata Details -->
+    @Html.Sitecore().Placeholder("metadata")
+
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="/Assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/Assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="/Assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Assets/css/themify-icons.css">
+    <link rel="stylesheet" href="/Assets/css/nice-select.css">
+    <link rel="stylesheet" href="/Assets/css/flaticon.css">
+    <link rel="stylesheet" href="/Assets/css/gijgo.css">
+    <link rel="stylesheet" href="/Assets/css/animate.css">
+    <link rel="stylesheet" href="/Assets/css/slick.css">
+    <link rel="stylesheet" href="/Assets/css/slicknav.css">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="/Assets/css/style.css">
+    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    @Html.Sitecore().VisitorIdentification()
+    @Html.RenderFormStyles()
+    @Html.RenderFormScripts()
+
+</head>
+<body>
+    @RenderBody()
+</body>
+</html>

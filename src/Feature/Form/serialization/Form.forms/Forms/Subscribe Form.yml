@@ -1,0 +1,25 @@
+﻿---
+ID: "4f8c906f-c132-46c1-81a6-4b74912e7687"
+Parent: "b701850a-cb8a-4943-b2bc-dddb1238c103"
+Template: "6abee1f2-4ab4-47f0-ad8b-bdb36f37f64c"
+Path: /sitecore/Forms/Subscribe Form
+DB: master
+SharedFields:
+- ID: "5303564e-92a6-4a74-b0d5-1471c717197d"
+  Hint: Css Class
+  Value: newsletter_form
+- ID: "9eb86f19-2e5d-48db-9795-0ee4868eff11"
+  Hint: Is Ajax
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T121825Z

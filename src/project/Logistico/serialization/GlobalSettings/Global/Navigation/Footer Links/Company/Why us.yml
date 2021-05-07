@@ -1,0 +1,21 @@
+﻿---
+ID: "43b33cf1-0b69-4981-8a70-2b79be3a094f"
+Parent: "3fc9a7af-ac51-4de7-88a4-2864a067c527"
+Template: "be94a9f9-b851-4e6b-9bad-b937a749aa0f"
+Path: /sitecore/content/Global/Navigation/Footer Links/Company/Why us
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T114134Z
+    - ID: "4f58afdd-0de7-4262-8f8f-dc961a934556"
+      Hint: Nav Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{565A6E7D-2C1D-4ACC-9B55-5A75FEE295A8}" />
+    - ID: "e73422da-1f3c-47c3-a04e-10b354e54183"
+      Hint: Nav Title
+      Value: Why us

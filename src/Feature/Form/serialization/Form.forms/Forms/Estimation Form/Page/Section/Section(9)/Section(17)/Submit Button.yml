@@ -1,0 +1,34 @@
+﻿---
+ID: "a6f157d9-9267-4384-866d-d951c9381110"
+Parent: "fb632f23-c9a8-4f85-b0c2-bb1b8e946b0e"
+Template: "94a46d66-b1b8-405d-aae4-7b5a9cd61c5e"
+Path: /sitecore/Forms/Estimation Form/Page/Section/Section(9)/Section(17)/Submit Button
+DB: master
+SharedFields:
+- ID: "71c6de8e-4718-4977-b83e-b49552ee14b0"
+  Hint: Conditions
+  Value: |
+    {"fieldConditions":[]}
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: "boxed-btn3-line"
+- ID: "84ece662-5034-40cb-9c60-744db64bb294"
+  Hint: Field Key
+  Value: F429D0FCA72F4A7FBA53C359792E2F4E
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "d842af43-e220-48d7-9714-6eb2381d2b0c"
+  Hint: Navigation Step
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T052148Z
+    - ID: "71ffd7b2-8b09-4f7b-8a66-1e4cef653e8d"
+      Hint: Title
+      Value: Send Estimate

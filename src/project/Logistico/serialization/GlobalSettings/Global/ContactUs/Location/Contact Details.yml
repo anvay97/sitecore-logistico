@@ -1,0 +1,26 @@
+﻿---
+ID: "76344d25-0bed-47b7-90c8-a71687398ea7"
+Parent: "e3d47521-7a69-43f5-9001-ec0bc4057a0b"
+Template: "5dca5803-899f-423c-a631-ab6013ed3af6"
+Path: /sitecore/content/Global/ContactUs/Location/Contact Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200821T055544Z
+    - ID: "5e09c1be-ee5b-4968-997a-b6d421ae02bf"
+      Hint: Contact Title
+      Value: Contact
+    - ID: "8cd45e21-b407-4de5-a853-e66589f5f95a"
+      Hint: Contact Summary
+      Value: |
+        +10 267 3563 4562 <br />
+                                    support@logistico.com
+    - ID: "915a9eea-b790-418a-aecd-d27c57c2d3b0"
+      Hint: Contact Icon
+      Value: |
+        <image mediaid="{2DE5EE96-C085-4605-9EE2-0B9D83050DA1}" />

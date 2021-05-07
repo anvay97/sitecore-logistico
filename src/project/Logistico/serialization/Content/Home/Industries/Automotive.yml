@@ -1,0 +1,135 @@
+﻿---
+ID: "8622f0a3-5ea5-487b-879b-4e3e61e69a5b"
+Parent: "a4fcb1db-af75-4755-906c-b69b320a1487"
+Template: "bbdaff51-56e1-4c73-8a1b-59080131d3c5"
+Path: /sitecore/content/Home/Industries/Automotive
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{23BEF062-42B1-4CCE-966C-1B7DE2A12542}">
+        <r
+          id="{673C4C9D-0248-444E-9FAC-32C2C4442AC4}"
+          ph="header"
+          uid="{9EE4DA89-2CC9-4A68-A81D-C30D68D68961}" />
+        <r
+          id="{60D28252-1BB9-4397-9E75-7263F950DE4D}"
+          ph="footer"
+          uid="{DE8587BE-2E10-4EF7-9769-08E3CE231512}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="header-logo"
+          uid="{1077C699-9990-4F2D-B33F-0B02B1B86CDE}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="header-logo-1"
+          uid="{5B63A792-1108-487B-9B6C-D23243843BAC}" />
+        <r
+          id="{E1EB8E63-BA41-4AB8-BAB7-59F4732AB3B0}"
+          ph="copyright-text"
+          uid="{D04E5918-F192-46D1-AF4E-5F39C3B5B152}" />
+        <r
+          id="{42B2A03B-24C4-4CDA-8B4E-5400EA88CC95}"
+          ph="header-rightcorner"
+          uid="{EBBFB60D-0FEC-4608-B46A-60DF58F346A0}" />
+        <r
+          ds="{AB6EF884-B9B5-4668-AF2F-EF097CE3402A}"
+          id="{64D8DB8F-F97F-4F41-8A9B-50EF1EB91B4A}"
+          par=""
+          ph="header-cta"
+          uid="{65337C15-9841-4534-B7E6-A09C1C98C6B2}" />
+        <r
+          ds="{5EE0D879-4685-4A0B-B78B-98B9A614B00E}"
+          id="{6975DA02-523F-44A5-A29A-9F4601CF1ED1}"
+          par=""
+          ph="footer-links"
+          uid="{51F583E4-11BB-419B-8A91-D3A16B2550F7}" />
+        <r
+          ds="{9BB538E1-55AE-47D7-AAD6-CA220B66A42C}"
+          id="{094030F6-55F2-4D79-AD62-32206EA0FDF7}"
+          par=""
+          ph="header-nav"
+          uid="{DD8EC03C-BCF5-4238-8DFA-C4734CF5ECCD}" />
+        <r
+          id="{B03478B5-E99D-497F-808F-E74F8BF9ADAE}"
+          ph="subscribe-form"
+          uid="{0FD7E607-12AD-413A-B29C-E15AB185D6D8}" />
+        <r
+          ds="{4F8C906F-C132-46C1-81A6-4B74912E7687}"
+          id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+          par=""
+          ph="Subscribe_Form"
+          uid="{6F6535F6-0BF9-4F87-9DE1-05BD5BB75474}" />
+        <r
+          id="{FF8B467A-4A1A-46E9-A4B5-1BBEF06D9330}"
+          ph="metadata"
+          uid="{65C9D897-6EB8-4E43-88FB-B2EC3EA70B45}" />
+        <r
+          id="{1AB02A79-962F-4B08-A39C-B101AF87D2F8}"
+          ph="main"
+          uid="{58ED91DB-8626-45B8-B69F-7660AF712728}" />
+        <r
+          id="{EB2D0DE2-F61F-4B8D-B809-7DE6396CD857}"
+          ph="main"
+          uid="{707F4423-7DDE-48D0-9A06-802976B928C7}" />
+        <r
+          id="{20B7F14B-BADF-426B-B472-4EDA16F7B849}"
+          ph="IndustryDetailsInfo"
+          uid="{2132F426-1224-4D5B-B239-14BF781122F5}" />
+        <r
+          ds="{A4FCB1DB-AF75-4755-906C-B69B320A1487}"
+          id="{6E87DB6E-A984-42FD-8351-F0D1F082CEA1}"
+          par=""
+          ph="Vertical-Nav"
+          uid="{3EDFBCC3-3E37-4064-888F-E2E31D00AC41}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c31b06a-1e0c-4d49-9568-fe87f9c06c58"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{14702008-D1D5-4C4B-BD4A-62F825512588}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T111914Z
+    - ID: "50b0c548-2176-4a00-964f-c6c388a623cb"
+      Hint: OG Title
+      Value: Automotive
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61e213af-a5a6-4966-b09e-f9e5a3dcb281"
+      Hint: Industry Summary
+      Value: The industry’s principal products are passenger automobiles and light trucks, including pickups, vans, and sport utility vehicles.
+    - ID: "8a165653-6c58-4142-85bb-f2ca621145d2"
+      Hint: Industry Title
+      Value: Automotive
+    - ID: "8c434534-e4d4-4ae8-8a04-16c5689be970"
+      Hint: Banner SubTitle
+      Value: 
+    - ID: "8db7ae53-02a4-4414-906a-89645979024a"
+      Hint: Meta Title
+      Value: Automotive
+    - ID: "bc74498e-ad5d-4542-990a-d61cd02098ea"
+      Hint: Industry Image
+      Value: |
+        <image mediaid="{41587159-1DC3-4F4C-A8C0-176DDA35068E}" />
+    - ID: "d5fbeb69-2863-4f60-9bdc-18f8084f3714"
+      Hint: Industry Description
+      Value: |
+        The automotive industry comprises a wide range of companies and organizations involved in the design, development, manufacturing, marketing, and selling of motor vehicles.[1] It is one of the world's largest economic sectors by revenue. The automotive industry does not include industries dedicated to the maintenance of automobiles following delivery to the end-user,[citation needed] such as automobile repair shops and motor fuel filling stations.<br />
+        <br />
+        The word automotive comes from the Greek autos (self), and Latin motivus (of motion), referring to any form of self-powered vehicle.[clarification needed] This term, as proposed by Elmer Sperry[2][need quotation to verify] (1860-1930), first came into use with reference to automobiles in 1898.[3]
+    - ID: "eed828e9-636a-4506-a298-846164670f83"
+      Hint: Banner Title
+      Value: Automotive

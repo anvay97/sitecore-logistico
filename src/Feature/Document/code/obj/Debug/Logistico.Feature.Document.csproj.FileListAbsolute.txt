@@ -1,0 +1,10 @@
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\bin\Logistico.Feature.Document.dll.config
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\bin\Logistico.Feature.Document.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\bin\Logistico.Feature.Document.pdb
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\bin\System.Web.Mvc.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\bin\System.Web.Mvc.xml
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\obj\Debug\Logistico.Feature.Document.csprojAssemblyReference.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\obj\Debug\Logistico.Feature.Document.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\obj\Debug\Logistico.Feature.Document.csproj.CopyComplete
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\obj\Debug\Logistico.Feature.Document.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Document\code\obj\Debug\Logistico.Feature.Document.pdb

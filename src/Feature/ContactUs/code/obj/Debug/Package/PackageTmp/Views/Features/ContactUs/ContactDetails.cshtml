@@ -1,0 +1,33 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Data
+@using Sitecore.Data.Items
+
+@{
+    Database db = Sitecore.Context.Database;
+    string datasourcePath = RenderingContext.Current.Rendering.DataSource;
+    Item contactItem = db.GetItem(datasourcePath);
+
+    if (contactItem != null)
+    {
+        foreach (Item childItem in contactItem.Children)
+        {
+            Item childContactItem = db.GetItem(childItem.ID);
+
+            <div class="media contact-info">
+                <span class="contact-info__icon">
+                    <i class="@Html.Sitecore().Field("Contact Icon Css", childContactItem)"></i>
+                </span>
+                <div class="media-body">
+                    @Html.Sitecore().Field("Contact Summary", childContactItem)
+                </div>
+            </div>
+        }
+    }
+}
+
+
+
+
+
+

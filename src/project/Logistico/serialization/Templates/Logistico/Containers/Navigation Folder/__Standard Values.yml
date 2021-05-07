@@ -1,0 +1,25 @@
+﻿---
+ID: "d589aa1c-3865-48a6-8fb3-e2e3865380ed"
+Parent: "0d1bc4f5-1a26-4a56-b54b-c3e42ebc9263"
+Template: "0d1bc4f5-1a26-4a56-b54b-c3e42ebc9263"
+Path: /sitecore/templates/Project/Logistico/Containers/Navigation Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {0D1BC4F5-1A26-4A56-B54B-C3E42EBC9263}
+    {BE94A9F9-B851-4E6B-9BAD-B937A749AA0F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T110127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

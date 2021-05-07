@@ -1,0 +1,14 @@
+﻿---
+ID: "a4077422-5122-4ef9-8dff-a0924f23c681"
+Parent: "16098b05-bc4b-47fc-b152-8cee672eb459"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/Forms/Subscribe Form/Page/Submit Button/SubmitActions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T060232Z

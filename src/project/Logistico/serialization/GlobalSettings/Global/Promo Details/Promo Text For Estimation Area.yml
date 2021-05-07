@@ -1,0 +1,24 @@
+﻿---
+ID: "e2a3d098-c749-4679-bb2a-c3aca007aaa1"
+Parent: "5a6f1d55-3cf1-4948-a25b-d8995657cc84"
+Template: "655e6e79-c04d-4f26-aff8-6c480fed24af"
+Path: /sitecore/content/Global/Promo Details/Promo Text For Estimation Area
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T120859Z
+    - ID: "3c5dc95f-6b0f-4648-a58f-467cee2f5d38"
+      Hint: Promo Image
+      Value: 
+    - ID: "40f4b0a9-6c91-430c-b9be-b7bc6b293d4f"
+      Hint: CTA Button
+      Value: |
+        <link linktype="external" url="tel:+919049145632" anchor="" target="" />
+    - ID: "f0e5baa1-ca4a-48b1-8fea-52324a5e68dd"
+      Hint: Promo Title
+      Value: Get Free Estimate

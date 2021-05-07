@@ -1,0 +1,18 @@
+﻿---
+ID: "dda8c849-c938-4e4d-bd06-1103fc745ed8"
+Parent: "03E2AAE7-2ED7-4AC7-B99D-E444D5C2EF97"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Banner/HomeBanner
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Features/Banner/HomeBanner.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T115341Z

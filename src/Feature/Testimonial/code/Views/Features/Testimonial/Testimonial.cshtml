@@ -1,0 +1,64 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Data
+@using Sitecore.Data.Items
+@using Sitecore.Data.Fields
+
+
+@{
+    Database db = Sitecore.Context.Database;
+    string datasourcePath = RenderingContext.Current.Rendering.DataSource;
+    Item testimonialItem = db.GetItem(datasourcePath);
+
+}
+
+
+@{
+    ImageField imgField = testimonialItem.Fields["Image"];
+    string imgLink = string.Empty;
+    if (imgField != null && imgField.MediaItem != null)
+    {
+        imgLink = Sitecore.Resources.Media.MediaManager.GetMediaUrl(imgField.MediaItem);
+    }
+}
+
+<style>
+    .testimonial_area {
+        background-image: url(@imgLink);
+    }
+</style>
+
+
+
+<!-- testimonial_area  -->
+<div class="testimonial_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-7">
+                <div class="testmonial_active owl-carousel">
+
+                    @foreach (Item child in testimonialItem.Children)
+                    {
+                        <div class="single_carousel">
+                            <div class="single_testmonial text-center">
+                                <div class="quote">
+                                    <img src="\Assets\img\svg_icon\quote.png" alt="">
+                                </div>
+                                @Html.Sitecore().Field("Author Description", child)
+                                <div class="testmonial_author">
+                                    <div class="thumb">
+                                        @Html.Sitecore().Field("Author Image", child)
+                                    </div>
+                                    <h3>@Html.Sitecore().Field("Author Name", child)</h3>
+                                    <span>@Html.Sitecore().Field("Author Designation", child)</span>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /testimonial_area  -->

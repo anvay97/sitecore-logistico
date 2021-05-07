@@ -1,0 +1,14 @@
+﻿---
+ID: "53d3772c-3180-452e-a61f-cd7d2326724b"
+Parent: "67dd3e70-48b5-4dd9-8e5d-805818c244c9"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Logistico/Services
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210125T080135Z

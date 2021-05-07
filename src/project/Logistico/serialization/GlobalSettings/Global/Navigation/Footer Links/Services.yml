@@ -1,0 +1,18 @@
+﻿---
+ID: "cbe0978b-49c4-49c3-b3ef-5f3777130398"
+Parent: "5ee0d879-4685-4a0b-b78b-98b9a614b00e"
+Template: "0d1bc4f5-1a26-4a56-b54b-c3e42ebc9263"
+Path: /sitecore/content/Global/Navigation/Footer Links/Services
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T093545Z

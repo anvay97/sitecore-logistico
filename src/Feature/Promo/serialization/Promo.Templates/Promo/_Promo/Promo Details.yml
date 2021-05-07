@@ -1,0 +1,14 @@
+﻿---
+ID: "e5036ab1-3f15-48a9-9b71-22959057a407"
+Parent: "d9abc2da-49c2-4177-8d79-0a8f551ad7fd"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Promo/_Promo/Promo Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T115253Z

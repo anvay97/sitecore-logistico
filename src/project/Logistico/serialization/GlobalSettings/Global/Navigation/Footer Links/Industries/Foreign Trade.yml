@@ -1,0 +1,25 @@
+﻿---
+ID: "e537480f-1736-4666-9a86-d94dc55406b1"
+Parent: "79abf447-7770-4705-94a2-b9b06da40f16"
+Template: "be94a9f9-b851-4e6b-9bad-b937a749aa0f"
+Path: /sitecore/content/Global/Navigation/Footer Links/Industries/Foreign Trade
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T114434Z
+    - ID: "4f58afdd-0de7-4262-8f8f-dc961a934556"
+      Hint: Nav Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{17161389-2AD3-47B7-8595-F7CE5BEF9D6F}" />
+    - ID: "e73422da-1f3c-47c3-a04e-10b354e54183"
+      Hint: Nav Title
+      Value: Foreign Trade

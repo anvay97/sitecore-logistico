@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\sc93sc.dev.local</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/Features/Industries/Logistico.Feature.Industries.Serialization.config">
+      <publishTime>01/23/2021 11:07:32</publishTime>
+    </File>
+    <File Include="bin/Logistico.Feature.Industries.dll">
+      <publishTime>01/25/2021 15:35:16</publishTime>
+    </File>
+    <File Include="bin/Logistico.Feature.Industries.pdb">
+      <publishTime>01/25/2021 15:35:16</publishTime>
+    </File>
+    <File Include="Views/Features/Industries/IndustriesDetails.cshtml">
+      <publishTime>01/23/2021 11:07:32</publishTime>
+    </File>
+    <File Include="Views/Features/Industries/IndustriesInfo.cshtml">
+      <publishTime>01/23/2021 11:07:32</publishTime>
+    </File>
+    <File Include="Views/Features/Industries/IndustriesListing.cshtml">
+      <publishTime>01/23/2021 11:07:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

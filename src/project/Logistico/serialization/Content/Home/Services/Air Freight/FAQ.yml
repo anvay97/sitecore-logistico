@@ -1,0 +1,21 @@
+﻿---
+ID: "a151422f-ef9c-4d0a-91bb-5aa120d6c195"
+Parent: "f1ad18ad-d4e0-4de7-99c7-2c12e558b365"
+Template: "db906ad8-45d9-4c6a-9cbc-9ab75981d647"
+Path: /sitecore/content/Home/Services/Air Freight/FAQ
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{316A8DFB-A559-4D37-98D5-4FBE2FC03BD2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T111212Z

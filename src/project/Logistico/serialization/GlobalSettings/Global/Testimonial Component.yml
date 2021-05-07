@@ -1,0 +1,22 @@
+﻿---
+ID: "b33699cf-ccdc-475d-a549-f7b3b40bafc0"
+Parent: "5b7965e3-8c17-4b4a-a0a4-e46cefd95dcd"
+Template: "a69e35b4-b010-4467-8bb3-d7e1cf96b46e"
+Path: /sitecore/content/Global/Testimonial Component
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: people/16x16/pencil.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T100052Z
+    - ID: "29e2c619-b9c6-4e3d-bef2-8a7b54e5d345"
+      Hint: Image
+      Value: |
+        <image mediaid="{1F56BCA3-EE17-4A7C-B2F5-7914640BE999}" />

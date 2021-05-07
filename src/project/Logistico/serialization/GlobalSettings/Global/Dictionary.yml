@@ -1,0 +1,14 @@
+﻿---
+ID: "d34f6006-5edd-43a7-aff7-922607c94496"
+Parent: "5b7965e3-8c17-4b4a-a0a4-e46cefd95dcd"
+Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
+Path: /sitecore/content/Global/Dictionary
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200821T051141Z

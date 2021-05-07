@@ -1,0 +1,31 @@
+﻿---
+ID: "f5f809ff-9563-4d41-a654-d7573ae0b262"
+Parent: "a6def913-3de2-4e1c-b6e2-83338a294d1c"
+Template: "89e0c587-314d-447a-813d-fcdb6f2e7bd4"
+Path: /sitecore/content/Home/Services/Land Transport/Brochure/Service Document
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200827T062106Z
+    - ID: "6654b7e5-2252-47db-a08a-ceff2fa5cf56"
+      Hint: Document Title
+      Value: Service Document
+    - ID: "66ccf052-40fe-43ec-9359-3ae464bc523f"
+      Hint: Document Icon
+      Value: |
+        <image mediaid="{754A7961-B4BE-4601-A6C9-358255CCD3A2}" />
+    - ID: "7e7524ce-6c61-42e3-98d4-b6dbcfabb5a7"
+      Hint: Document Summary
+      Value: Details of Services under land transport
+    - ID: "d935f81c-1348-4876-9b12-536afa8858c4"
+      Hint: Label
+      Value: Download Now
+    - ID: "f2a2172b-0e27-40fc-b86f-779c06139eff"
+      Hint: Link
+      Value: |
+        <link target="" linktype="media" id="{CAF84906-92BB-4496-A0B8-9774963C6D82}" url="/Logistico/Document/Land Transport Documents/Land Transport Docs" />

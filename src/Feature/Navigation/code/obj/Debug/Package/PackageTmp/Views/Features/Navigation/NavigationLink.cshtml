@@ -1,0 +1,29 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Data.Items
+
+@model List<Item>
+
+@foreach (Item childItem in Model)
+{
+    string cssClass = "col-xl-3 col-md-6 col-lg-3";
+
+    if (childItem.Name.ToLowerInvariant().Contains("company"))
+    {
+        cssClass = "col-xl-2 col-md-6 col-lg-2";
+    }
+        <div class="@cssClass">
+            <div class="footer_widget">
+                <h3 class="footer_title">
+                    @childItem.Name
+                </h3>
+                <ul>
+                    @foreach (Item subChild in childItem.Children)
+                    {
+                    <li>
+                        @Html.Sitecore().Field("Nav Link", subChild, new { text = @Html.Sitecore().Field("Nav Title", subChild) })
+                    </li>
+                    }
+                </ul>
+            </div>
+        </div>
+}

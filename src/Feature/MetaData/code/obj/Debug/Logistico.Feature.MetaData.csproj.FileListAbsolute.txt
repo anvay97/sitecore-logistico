@@ -1,0 +1,6 @@
+D:\Anvay\Sitecore\Logistico\src\Feature\MetaData\code\bin\Logistico.Feature.MetaData.dll.config
+D:\Anvay\Sitecore\Logistico\src\Feature\MetaData\code\bin\Logistico.Feature.MetaData.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\MetaData\code\bin\Logistico.Feature.MetaData.pdb
+D:\Anvay\Sitecore\Logistico\src\Feature\MetaData\code\obj\Debug\Logistico.Feature.MetaData.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\MetaData\code\obj\Debug\Logistico.Feature.MetaData.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\MetaData\code\obj\Debug\Logistico.Feature.MetaData.pdb

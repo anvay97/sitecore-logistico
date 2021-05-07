@@ -1,0 +1,18 @@
+﻿---
+ID: "a02f2b3d-540b-41bb-8b6c-8f5342448f25"
+Parent: "5a97396d-f74c-4636-9c94-e2d545514eba"
+Template: "eec11547-65ec-41d1-b4a3-db34ef086224"
+Path: /sitecore/templates/Branches/Project/Logistico/Page Types/Service Page/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T110756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

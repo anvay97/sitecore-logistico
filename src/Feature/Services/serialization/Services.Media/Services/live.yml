@@ -1,0 +1,40 @@
+﻿---
+ID: "c81c63ce-e6c2-4538-bae8-6d272ef59674"
+Parent: "53D3772C-3180-452E-A61F-CD7D2326724B"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Logistico/Services/live
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/C81C63CEE6C24538BAE86D272EF59674.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 62
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "53dda6a3-4997-4238-8eb6-58f634a09c27"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAD4AAAAnCAYAAABXGPsXAAAABHNCSVQICAgIfAhkiAAAA4VJREFUaEPtWl1a2kAUPZfwXmx4r67AaHyvrqC6guIKlBVoV6CuoLgCdQWl78TGFUjfExvfh1y/mWRCgCGBfvpB8jEvRpLAPXNu7rk/IaSLD9qHYD4D0bH+rEZ/+2C+IS+815hIHvD+53M0Glc1AmqGwtwjLzyVJ0kxDfxSVzLfYDTqkR/5ddkEdlrbaDY7AC4UpphP6THsEbv2PYi+pa5wXhfA0zhyXu3TINiTjLO6SIi9OjE9A9xptdBs/lNuPggoAy7/qSvbuQCuSN4A17uwYbymO6Dj2cbVi1ydD9qXYN4lLzxZ1BHYtY9BdAYhTsmPhipFcFoOms0rCNEtUw+WEdiyfoLxIDU3vT/5jKhVYoeUq67pmqUY54N2H8BXAEc0CORx6VKblSQMP2gQyONxdsh8S14oE4q5K7uf+YG8UKXQE4lW4c38l7xwe32AJ4z/AXNEXrhVaLtrD0H0BcwnOr/OgDOeQJifaAnhkx9FawNcsWYANJNo6BSaJ5nLMf6bBoFMs5deK3H1FPi1evYL3J1duwei79MpdLWBj919SF64M8N2EtSeVQATYkcHxqlnvHqMp6xHIPpkqg143+6gQTKaP5EXOPmNqTTjKXCjK6esJgqSlo51Ay41/g7ME+6e1s3PCqwQW9OReRzVWXrMbL8g5lut+fOi3sqCmzaIXVu7e/Yc57TbqPOlOm54PAyKsXh19l4JzITb6uZHHHfp8eV6Eakr1XEhhvlguFY6njGugxiguiE5Ny7KunSLrJpRXbGb64ZI2YJlXZq0u1bBLfecJ72+OO6C6MKk3fUErlvarKJ0y6Td9QSetH0T+ZLLoN3rAZxZJh6qtp5ZHEfkvdxkbmwoS423uW0fhN152m0EziwrN1Wjm23hp/zEZOo7/kvO5v5WeiKr1zNNzsmVEfjY3Rep0ceDjyJLmF/JC43NiuUSmKSwKJ6nxXGk9TiN2sn0QojrebVxFt0bjQ7iWE5vjDX0BGPJRhV3YJj9d2G8jOYqnV+K8SoBK7N1A3wzQkrnSWWuUvXzk66uS8Ql2sdV3IB8vZ9MUnRzD+jTIDiqIqhFbGbXvlOvuaS9elI7YVm+6oMBsrNxD8JCg4NFfnDl18SxA2rIPES+4/OK0ehQTnKSd2BkkmJZ/RT8ym39EAMkaKCjk5vsZQBVI8ssisgBkXEE8yEGffSXyuqPuT+dHb4BMoeAVYH0NOQAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 974
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 62 x 39
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 39
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200825T100834Z

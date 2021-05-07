@@ -1,0 +1,24 @@
+﻿---
+ID: "3540c1ca-b103-4029-b18d-5989ae6b0273"
+Parent: "961b5286-7010-4625-9ec5-929c81915230"
+Template: "ae58f0eb-e9fc-43bb-bea0-f45cc9e6a57f"
+Path: /sitecore/content/Global/Success Figures/Success Figure 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T093509Z
+    - ID: "5c5adc4f-c89a-44ed-9da5-a45b61bb8c4e"
+      Hint: Counter number
+      Value: 42
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b7f44d4e-66d6-4dcf-ad61-3e7698dd88a4"
+      Hint: Counter text
+      Value: <p>Countries Covered</p>

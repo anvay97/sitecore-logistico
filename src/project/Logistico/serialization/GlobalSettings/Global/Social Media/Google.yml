@@ -1,0 +1,25 @@
+﻿---
+ID: "0fbad514-87f8-4690-a1ad-a77d0d1bef23"
+Parent: "188310bb-8d03-4b11-9675-6a520b4164a9"
+Template: "462a63f8-3d1a-4240-8213-b42f1c0ac30f"
+Path: /sitecore/content/Global/Social Media/Google
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T094432Z
+    - ID: "49209d06-fc72-464f-a5a8-8f4cd2b72c25"
+      Hint: Social Link
+      Value: |
+        <link linktype="external" url="https://www.google.com/" anchor="" class="fa fa-google-plus" target="_blank" />
+    - ID: "d58b07bb-202b-4463-8556-34e9e103c1dd"
+      Hint: Social Icon Css
+      Value: "fa fa-google-plus"

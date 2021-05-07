@@ -1,0 +1,29 @@
+﻿---
+ID: "b7a09938-d0ff-48f5-92af-1c46b9a2d845"
+Parent: "175cc9f6-3570-4296-9445-996773f53e39"
+Template: "b3bdfe59-6667-4432-b261-05d0e3f7fdf6"
+Path: /sitecore/Forms/Estimation Form/Page/Section/Section(5)/Section(13)/Product size/Settings/Datasource/M
+DB: master
+SharedFields:
+- ID: "3a07c171-9bca-464d-8670-c5703c6d3f11"
+  Hint: Value
+  Value: M
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: M
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T052145Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

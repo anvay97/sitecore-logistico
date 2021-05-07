@@ -1,0 +1,22 @@
+﻿---
+ID: "0ebd4910-0a2d-49e8-b4e1-ab7c3489ceab"
+Parent: "4f8c906f-c132-46c1-81a6-4b74912e7687"
+Template: "cfee7b51-8505-45ce-b843-9358f827df87"
+Path: /sitecore/Forms/Subscribe Form/Page(2)
+DB: master
+SharedFields:
+- ID: "71c6de8e-4718-4977-b83e-b49552ee14b0"
+  Hint: Conditions
+  Value: |
+    {"fieldConditions":[]}
+- ID: "84ece662-5034-40cb-9c60-744db64bb294"
+  Hint: Field Key
+  Value: 3F55BA07ABC74F698DF7CBDD0BA66B6C
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T064235Z

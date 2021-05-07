@@ -1,0 +1,24 @@
+﻿---
+ID: "5dca5803-899f-423c-a631-ab6013ed3af6"
+Parent: "7e8ba467-c828-4aa0-b2a3-adcb81e8af08"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Logistico/Content Types/ContactUs
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Other/16x16/at.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {59756714-A034-4693-96B3-93074261D938}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T102216Z

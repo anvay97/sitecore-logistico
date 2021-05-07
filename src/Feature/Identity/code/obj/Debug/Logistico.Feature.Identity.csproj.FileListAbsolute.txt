@@ -1,0 +1,6 @@
+D:\Anvay\Sitecore\Logistico\src\Feature\Identity\code\bin\Logistico.Feature.Identity.dll.config
+D:\Anvay\Sitecore\Logistico\src\Feature\Identity\code\bin\Logistico.Feature.Identity.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Identity\code\bin\Logistico.Feature.Identity.pdb
+D:\Anvay\Sitecore\Logistico\src\Feature\Identity\code\obj\Debug\Logistico.Feature.Identity.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\Identity\code\obj\Debug\Logistico.Feature.Identity.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Identity\code\obj\Debug\Logistico.Feature.Identity.pdb

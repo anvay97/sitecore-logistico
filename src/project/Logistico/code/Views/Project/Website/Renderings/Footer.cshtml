@@ -1,0 +1,23 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+
+<div class="footer_top">
+    <div class="container">
+        <div class="row">
+            @Html.Sitecore().Placeholder("footer-links")
+            <div class="col-xl-4 col-md-6 col-lg-4">
+                @Html.Sitecore().Placeholder("subscribe-form")
+            </div>
+        </div>
+    </div>
+</div>
+<div class="copy-right_text">
+    <div class="container">
+        <div class="footer_border"></div>
+        <div class="row">
+            <div class="col-xl-12">
+                @Html.Sitecore().Placeholder("copyright-text")
+            </div>
+        </div>
+    </div>
+</div>

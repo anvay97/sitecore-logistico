@@ -1,0 +1,18 @@
+﻿---
+ID: "42b2a03b-24c4-4cda-8b4e-5400ea88cc95"
+Parent: "5c16c14e-0c8d-4b21-b2dd-653f9399db8b"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Page Content/Header Contact Details
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Features/PageContent/HeaderContactDetails.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T111231Z

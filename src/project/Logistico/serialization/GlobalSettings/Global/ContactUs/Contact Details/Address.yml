@@ -1,0 +1,22 @@
+﻿---
+ID: "d53dd39e-1071-4024-aeca-448cfcdeb6db"
+Parent: "a9a3f3c2-05fd-42b2-b648-ace9c5caa775"
+Template: "5dca5803-899f-423c-a631-ab6013ed3af6"
+Path: /sitecore/content/Global/ContactUs/Contact Details/Address
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200821T055251Z
+    - ID: "8cd45e21-b407-4de5-a853-e66589f5f95a"
+      Hint: Contact Summary
+      Value: |
+        <h3>Buttonwood, California.</h3>
+                                        <p>Rosemead, CA 91770</p>
+    - ID: "8f75a6ad-c4fa-4e09-944b-fdc10979253d"
+      Hint: Contact Icon Css
+      Value: "ti-home"

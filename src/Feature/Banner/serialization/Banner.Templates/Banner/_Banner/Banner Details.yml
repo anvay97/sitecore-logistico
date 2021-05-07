@@ -1,0 +1,14 @@
+﻿---
+ID: "c6eefee7-500d-45d9-a454-8f3b48a100c5"
+Parent: "EE29BC81-EE2F-4A6E-B2FA-5DA103FBA1F3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Banner/_Banner/Banner Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T101818Z

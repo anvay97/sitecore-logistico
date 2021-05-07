@@ -1,0 +1,19 @@
+﻿---
+ID: "08e81bb3-b453-4f9f-839e-841f6331b773"
+Parent: "379e5626-2a03-40d7-81f5-a627a25c7f09"
+Template: "9fcad58f-a563-44fa-a4e9-ce0e1d1c5493"
+Path: /sitecore/content/Home/Services/Transportation/Brochures
+DB: master
+BranchID: "5a97396d-f74c-4636-9c94-e2d545514eba"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E490C442-B0BF-4213-B38C-813184CFDD79}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200825T090637Z

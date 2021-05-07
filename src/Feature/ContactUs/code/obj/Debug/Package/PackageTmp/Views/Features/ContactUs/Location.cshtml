@@ -1,0 +1,36 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Data
+@using Sitecore.Data.Items
+@using Sitecore.Data.Fields
+
+@{
+    Database db = Sitecore.Context.Database;
+    string datasourcePath = RenderingContext.Current.Rendering.DataSource;
+    Item contactItem = db.GetItem(datasourcePath);
+
+    if (contactItem != null)
+    {
+        foreach (Item childItem in contactItem.Children)
+        {
+            <div class="col-xl-3 col-md-3">
+                <div class="single_location">
+                    <h3>
+                        
+                        @Html.Sitecore().Field("Contact Icon", childItem)
+                        @Html.Sitecore().Field("Contact Title", childItem)
+                    </h3>
+                    <p>
+                        @Html.Sitecore().Field("Contact Summary", childItem)
+                    </p>
+                </div>
+            </div>
+        }
+    }
+}
+
+
+
+
+
+

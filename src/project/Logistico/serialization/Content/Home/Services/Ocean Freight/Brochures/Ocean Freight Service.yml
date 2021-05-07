@@ -1,0 +1,24 @@
+﻿---
+ID: "f1a79863-0257-456f-a11a-243c390eadba"
+Parent: "f51643a3-d402-4f1c-a0e8-77d783b99ffe"
+Template: "89e0c587-314d-447a-813d-fcdb6f2e7bd4"
+Path: /sitecore/content/Home/Services/Ocean Freight/Brochures/Ocean Freight Service
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200827T070251Z
+    - ID: "6654b7e5-2252-47db-a08a-ceff2fa5cf56"
+      Hint: Document Title
+      Value: Ocean Freight Service
+    - ID: "d935f81c-1348-4876-9b12-536afa8858c4"
+      Hint: Label
+      Value: Download Now
+    - ID: "f2a2172b-0e27-40fc-b86f-779c06139eff"
+      Hint: Link
+      Value: |
+        <link linktype="media" target="" id="{09B4578F-4CBA-4195-8E39-72B9FB6F3B31}" />

@@ -1,0 +1,64 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+@{
+
+    Layout =
+    "Main.cshtml";
+}
+
+<!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+<!-- header-start -->
+<header>
+    @Html.Sitecore().Placeholder("header")
+</header>
+<!-- header-end -->
+
+@Html.Sitecore().Placeholder("main")
+
+<!-- footer start -->
+<footer class="footer">
+    @Html.Sitecore().Placeholder("footer")
+</footer>
+<!--/ footer end  -->
+<!-- Modal -->
+<div class="modal fade custom_search_pop" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="serch_form">
+                <input id="txtSearch" type="text" placeholder="search">
+                <button id="btnSearch" type="submit">search</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JS here -->
+<script src="/Assets/js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="/Assets/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="/Assets/js/popper.min.js"></script>
+<script src="/Assets/js/bootstrap.min.js"></script>
+<script src="/Assets/js/owl.carousel.min.js"></script>
+<script src="/Assets/js/isotope.pkgd.min.js"></script>
+<script src="/Assets/js/waypoints.min.js"></script>
+<script src="/Assets/js/jquery.counterup.min.js"></script>
+<script src="/Assets/js/imagesloaded.pkgd.min.js"></script>
+<script src="/Assets/js/scrollIt.js"></script>
+<script src="/Assets/js/jquery.scrollUp.min.js"></script>
+<script src="/Assets/js/wow.min.js"></script>
+<script src="/Assets/js/nice-select.min.js"></script>
+<script src="/Assets/js/jquery.slicknav.min.js"></script>
+<script src="/Assets/js/jquery.magnific-popup.min.js"></script>
+<script src="/Assets/js/plugins.js"></script>
+<!-- <script src="js/gijgo.min.js"></script> -->
+<script src="/Assets/js/slick.min.js"></script>
+
+<!--contact js-->
+@*<script src="/Assets/js/contact.js"></script>*@
+<script src="/Assets/js/jquery.ajaxchimp.min.js"></script>
+<script src="/Assets/js/mail-script.js"></script>
+
+<script src="/Assets/js/main.js"></script>
+<script src="/Assets/js/main-custom.js"></script>

@@ -1,0 +1,33 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Data
+@using Sitecore.Data.Items
+
+@{
+    Database db = Sitecore.Context.Database;
+    Item AboutItem = db.GetItem("{0FED3CF9-E6FC-4C29-ACD9-4A9F0C717E89}");
+
+}
+
+<div class="chose_area ">
+    <div class="container">
+        <div class="features_main_wrap">
+            <div class="row  align-items-center">
+                <div class="col-xl-5 col-lg-5 col-md-6">
+                    <div class="about_image">
+                        @Html.Sitecore().Field("About Image", AboutItem)
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="features_info">
+                        <h3>@Html.Sitecore().Field("Title", AboutItem)</h3>
+                        @Html.Sitecore().Field("Description", AboutItem)
+                        <div class="about_btn">
+                            @Html.Sitecore().Placeholder("about-cta-button")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

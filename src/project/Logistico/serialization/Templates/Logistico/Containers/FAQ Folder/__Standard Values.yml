@@ -1,0 +1,23 @@
+﻿---
+ID: "a8a8b997-cd4c-4219-bec8-d501e3318b0b"
+Parent: "db906ad8-45d9-4c6a-9cbc-9ab75981d647"
+Template: "db906ad8-45d9-4c6a-9cbc-9ab75981d647"
+Path: /sitecore/templates/Project/Logistico/Containers/FAQ Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{97A6108E-9A93-4F71-BB8B-5ABB98FCDA27}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T110901Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

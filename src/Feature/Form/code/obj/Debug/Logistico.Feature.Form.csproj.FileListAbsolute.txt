@@ -1,0 +1,6 @@
+D:\Anvay\Sitecore\Logistico\src\Feature\Form\code\bin\Logistico.Feature.Form.dll.config
+D:\Anvay\Sitecore\Logistico\src\Feature\Form\code\bin\Logistico.Feature.Form.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Form\code\bin\Logistico.Feature.Form.pdb
+D:\Anvay\Sitecore\Logistico\src\Feature\Form\code\obj\Debug\Logistico.Feature.Form.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\Form\code\obj\Debug\Logistico.Feature.Form.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Form\code\obj\Debug\Logistico.Feature.Form.pdb

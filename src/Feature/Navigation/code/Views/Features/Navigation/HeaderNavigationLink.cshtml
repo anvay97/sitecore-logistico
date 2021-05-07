@@ -1,0 +1,17 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Data.Items
+
+@model List<Item>
+
+        <div class="main-menu  d-none d-lg-block">
+            <nav>
+                <ul id="navigation">
+                    @foreach (Item subChild in Model)
+                    {
+                        <li>
+                            @Html.Sitecore().Field("Nav Link", subChild, new { text = @Html.Sitecore().Field("Nav Title", subChild) })
+                        </li>
+                    }
+                    </ul>
+            </nav>
+        </div>

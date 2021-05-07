@@ -1,0 +1,36 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Globalization
+
+<style>
+    .footer .footer_top .footer_widget .newsletter_form input[type=submit] {
+        position: absolute;
+        height: 40px;
+        border: none;
+        color: #fff;
+        background: #FF3414;
+        padding: 0 22px;
+        cursor: pointer;
+        border-radius: 30px;
+        top: 28px;
+        right: 5px;
+        font-size: 13px;
+        font-weight: 500;
+        width: 120px;
+    }
+
+    .field-validation-error{
+        color:red;
+    }
+</style>
+
+<div class="footer_widget">
+    <h3 class="footer_title">
+        @Translate.Text("Subscribe Text")
+    </h3>
+    @Html.AntiForgeryToken()
+    @Html.Sitecore().Placeholder("subscribe_form")
+
+    <p class="newsletter_text">
+        @Translate.Text("Subscribe Form Summary")
+    </p>
+</div>

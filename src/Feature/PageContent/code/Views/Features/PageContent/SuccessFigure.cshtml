@@ -1,0 +1,50 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Data
+@using Sitecore.Data.Items
+@using Sitecore.Data.Fields
+
+
+@{
+    Database db = Sitecore.Context.Database;
+    string datasourcePath = RenderingContext.Current.Rendering.DataSource;
+    Item successFigureItem = db.GetItem(datasourcePath);
+
+}
+
+
+@{
+    ImageField imgField = successFigureItem.Fields["Image"];
+    string imgLink = string.Empty;
+    if (imgField != null && imgField.MediaItem != null)
+    {
+        imgLink = Sitecore.Resources.Media.MediaManager.GetMediaUrl(imgField.MediaItem);
+    }
+}
+
+<style>
+    .counter_area .offcan_bg {
+        background-image: url(@imgLink);
+    }
+</style>
+
+<div class="counter_area">
+    <div class="container">
+        <div class="offcan_bg">
+            <div class="row">
+
+                @foreach (Item child in successFigureItem.Children)
+                {
+                    <div class="col-xl-3 col-md-3">
+                        <div class="single_counter text-center">
+                            <h3> <span class="counter">@Html.Sitecore().Field("Counter number" , child)</span> <span>+</span> </h3>
+                            @Html.Sitecore().Field("Counter text" , child)
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

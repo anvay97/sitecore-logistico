@@ -1,0 +1,24 @@
+﻿---
+ID: "4db466f7-56c1-4f45-9d9f-096d56000b3d"
+Parent: "08e81bb3-b453-4f9f-839e-841f6331b773"
+Template: "89e0c587-314d-447a-813d-fcdb6f2e7bd4"
+Path: /sitecore/content/Home/Services/Transportation/Brochures/Transportation Service
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200827T070320Z
+    - ID: "6654b7e5-2252-47db-a08a-ceff2fa5cf56"
+      Hint: Document Title
+      Value: Transportation Service
+    - ID: "d935f81c-1348-4876-9b12-536afa8858c4"
+      Hint: Label
+      Value: Download Now
+    - ID: "f2a2172b-0e27-40fc-b86f-779c06139eff"
+      Hint: Link
+      Value: |
+        <link linktype="media" target="" id="{D69EEDCE-95A0-42CA-AE8D-6DDC6542F462}" />

@@ -1,0 +1,7 @@
+D:\Anvay\Sitecore\Logistico\src\Feature\Banner\code\bin\Logistico.Feature.Banner.dll.config
+D:\Anvay\Sitecore\Logistico\src\Feature\Banner\code\bin\Logistico.Feature.Banner.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Banner\code\bin\Logistico.Feature.Banner.pdb
+D:\Anvay\Sitecore\Logistico\src\Feature\Banner\code\obj\Debug\Logistico.Feature.Banner.csprojAssemblyReference.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\Banner\code\obj\Debug\Logistico.Feature.Banner.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\Banner\code\obj\Debug\Logistico.Feature.Banner.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\Banner\code\obj\Debug\Logistico.Feature.Banner.pdb

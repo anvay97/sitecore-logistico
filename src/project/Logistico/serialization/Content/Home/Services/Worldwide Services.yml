@@ -1,0 +1,78 @@
+﻿---
+ID: "3e827d5a-92e6-4d1a-baa1-4e977fdc5151"
+Parent: "96ed43c1-53c7-440c-ae15-e8def4bba917"
+Template: "eec11547-65ec-41d1-b4a3-db34ef086224"
+Path: /sitecore/content/Home/Services/Worldwide Services
+DB: master
+BranchID: "5a97396d-f74c-4636-9c94-e2d545514eba"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C60C2826-B46E-4DA2-9A58-EAEB3ABC3215}"
+          s:ds="{96ED43C1-53C7-440C-AE15-E8DEF4BBA917}"
+          s:par="" />
+        <r
+          uid="{8B9C287F-F02F-4A2F-991A-1BAE4D910017}"
+          p:after="*[1=2]"
+          s:id="{D8734E7B-AFFA-4756-96CC-775D990373D5}"
+          s:ph="Brochure" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A02F2B3D-540B-41BB-8B6C-8F5342448F25}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "043187b2-ed9c-4b62-bfa8-4f5296fe50cd"
+      Hint: Service Summary
+      Value: Esteem spirit temper too say adieus who direct esteem. It look estee luckily or picture placing drawing.
+    - ID: "0c31b06a-1e0c-4d49-9568-fe87f9c06c58"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{AA65D200-76B4-47F7-8FEC-32B85F4B2A87}" />
+    - ID: "0f061909-0acb-43fd-bef3-8b8dd059df96"
+      Hint: Service Image
+      Value: |
+        <image mediaid="{D51AF344-B09B-4EC0-B0C2-AC6FD9DCA85E}" />
+    - ID: "15f520ac-4935-49cb-9cb2-7529f320652b"
+      Hint: Service Title
+      Value: Worldwide Services
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200825T090709Z
+    - ID: "50b0c548-2176-4a00-964f-c6c388a623cb"
+      Hint: OG Title
+      Value: Worldwide Services
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82de3bf4-6e1e-46c5-87ff-67dc04fa479b"
+      Hint: Featured Service
+      Type: Checkbox
+      Value: 1
+    - ID: "8db7ae53-02a4-4414-906a-89645979024a"
+      Hint: Meta Title
+      Value: Worldwide Services
+    - ID: "eed828e9-636a-4506-a298-846164670f83"
+      Hint: Banner Title
+      Value: Worldwide Services
+    - ID: "f966b9e6-7d2e-4bd2-b4cb-5c3aeaaafed6"
+      Hint: Service Description
+      Value: |
+        <p>Adieus who direct esteem. It esteems luckily or picture placing drawing.
+        Apartments
+        frequently or motionless on reasonable sed do eiusmod tempor inciunt ut labore
+        et dolore
+        magna liqua.abore et dolore incididunt ut labore et dolore.</p>
+        <p><img alt="" src="-/media/7C2DA0E241484945AF0FEB70FF336941.ashx" style="height:410px; width:754px;" /></p>

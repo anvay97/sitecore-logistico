@@ -1,0 +1,18 @@
+﻿---
+ID: "9ef6ee66-ac75-48ac-b1d8-cb6829f5fd57"
+Parent: "5c16c14e-0c8d-4b21-b2dd-653f9399db8b"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Page Content/Contact Location
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Features/PageContent/ContactLocation.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T122128Z

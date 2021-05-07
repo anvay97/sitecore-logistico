@@ -1,0 +1,19 @@
+﻿---
+ID: "8130bd8f-4587-4ab1-92c9-68dd2c9bbb15"
+Parent: "7e8ba467-c828-4aa0-b2a3-adcb81e8af08"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Logistico/Content Types/Test
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{0EACD7B8-84CC-4844-B499-66DEEB4B94C5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200913T065136Z

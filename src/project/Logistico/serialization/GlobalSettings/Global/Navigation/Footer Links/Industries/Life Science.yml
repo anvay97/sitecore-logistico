@@ -1,0 +1,21 @@
+﻿---
+ID: "8e689df9-38ef-41de-bd95-b7ed6a80a739"
+Parent: "79abf447-7770-4705-94a2-b9b06da40f16"
+Template: "be94a9f9-b851-4e6b-9bad-b937a749aa0f"
+Path: /sitecore/content/Global/Navigation/Footer Links/Industries/Life Science
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T114419Z
+    - ID: "4f58afdd-0de7-4262-8f8f-dc961a934556"
+      Hint: Nav Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{75AEA587-66DB-4966-822F-738E33DC24C3}" />
+    - ID: "e73422da-1f3c-47c3-a04e-10b354e54183"
+      Hint: Nav Title
+      Value: Life Science

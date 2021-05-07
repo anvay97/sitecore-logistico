@@ -1,0 +1,14 @@
+﻿---
+ID: "e490c442-b0bf-4213-b38c-813184cfdd79"
+Parent: "a02f2b3d-540b-41bb-8b6c-8f5342448f25"
+Template: "9fcad58f-a563-44fa-a4e9-ce0e1d1c5493"
+Path: /sitecore/templates/Branches/Project/Logistico/Page Types/Service Page/$name/Brochures
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T111109Z

@@ -1,0 +1,26 @@
+﻿---
+ID: "49f31443-4c92-4f78-b310-37c5f8404afa"
+Parent: "3fc9a7af-ac51-4de7-88a4-2864a067c527"
+Template: "be94a9f9-b851-4e6b-9bad-b937a749aa0f"
+Path: /sitecore/content/Global/Navigation/Footer Links/Company/News
+DB: master
+SharedFields:
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Type: checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T114049Z
+    - ID: "4f58afdd-0de7-4262-8f8f-dc961a934556"
+      Hint: Nav Link
+      Value: |
+        <link linktype="external" url="https://www.google.com" anchor="" target="_blank" />
+    - ID: "e73422da-1f3c-47c3-a04e-10b354e54183"
+      Hint: Nav Title
+      Value: News

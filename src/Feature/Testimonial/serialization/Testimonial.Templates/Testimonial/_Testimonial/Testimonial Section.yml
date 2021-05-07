@@ -1,0 +1,14 @@
+﻿---
+ID: "c10c34b4-485f-4b6d-896f-baa68f801d36"
+Parent: "1a2c5487-c409-4d0e-981c-331b5c3a6831"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Testimonial/_Testimonial/Testimonial Section
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T095655Z

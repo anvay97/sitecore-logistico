@@ -1,0 +1,7 @@
+D:\Anvay\Sitecore\Logistico\src\Feature\SocialMedia\code\bin\Logistico.Feature.SocialMedia.dll.config
+D:\Anvay\Sitecore\Logistico\src\Feature\SocialMedia\code\bin\Logistico.Feature.SocialMedia.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\SocialMedia\code\bin\Logistico.Feature.SocialMedia.pdb
+D:\Anvay\Sitecore\Logistico\src\Feature\SocialMedia\code\obj\Debug\Logistico.Feature.SocialMedia.csprojAssemblyReference.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\SocialMedia\code\obj\Debug\Logistico.Feature.SocialMedia.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\Feature\SocialMedia\code\obj\Debug\Logistico.Feature.SocialMedia.dll
+D:\Anvay\Sitecore\Logistico\src\Feature\SocialMedia\code\obj\Debug\Logistico.Feature.SocialMedia.pdb

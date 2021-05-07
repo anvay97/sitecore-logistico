@@ -1,0 +1,61 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore.ContentSearch.SearchTypes
+@using Sitecore.Data.Items
+@using SolrNet
+
+@model SolrQueryResults<SitecoreUISearchResultItem>
+
+<style>
+    .single-input {
+        display: inline-block;
+        width: 80%;
+    }
+
+    .genric-btn primary {
+        display: inline-block;
+    }
+</style>
+
+
+<div class="whole-wrap">
+    <div class="container box_1170">
+        <div class="serch_form">
+            <input class="single-input" id="txtSearchpage" type="text" placeholder="Enter the Search term here...">
+            <button class="genric-btn primary circle" id="btnSearchpage" type="submit">search</button>
+        </div>
+        @if (Model.Count > 0)
+        {
+            <br />
+            <h3 class="mb-20">Search Results</h3>
+            <p>Total @Model.Count results found for your search query</p>
+        }
+        else
+        {
+            <br />
+            <h3 class="mb-20">No results found</h3>
+        }
+            <div class="section-top-border">
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    Item searchItem = Model[i].GetItem();
+                    Sitecore.Layouts.RenderingReference[] layout = searchItem.Visualization.GetRenderings(Sitecore.Context.Device, true);
+                    if (layout != null && layout.Length > 0)
+                    {
+                        var itemUrl = Sitecore.Links.LinkManager.GetItemUrl(searchItem);
+                        <h3 class="mb-30"><a href="@itemUrl">@Model[i].GetItem().Name</a></h3>
+                        <a href="@itemUrl" class="genric-btn default radius">Read More</a>
+                    }
+                    else
+                    {
+                        <h3 class="mb-30">@Model[i].GetItem().Name</h3>
+                        @*<p>
+                            Content Here.....
+                        </p>*@
+                    }
+                }
+
+
+            </div>
+    </div>
+</div>

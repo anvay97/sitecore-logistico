@@ -1,0 +1,14 @@
+﻿---
+ID: "4d082e6c-cfad-4c03-9eef-bd72130a96f3"
+Parent: "a69e35b4-b010-4467-8bb3-d7e1cf96b46e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Logistico/Containers/Author Testimonial/Background Image
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T061801Z

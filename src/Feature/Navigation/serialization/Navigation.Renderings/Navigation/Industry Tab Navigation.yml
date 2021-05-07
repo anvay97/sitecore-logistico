@@ -1,0 +1,18 @@
+﻿---
+ID: "6e87db6e-a984-42fd-8351-f0d1f082cea1"
+Parent: "d11b7dc0-22f4-4a7c-b444-194dfce04fbb"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Navigation/Industry Tab Navigation
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Features/Navigation/IndustryTabNavigation.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T114109Z

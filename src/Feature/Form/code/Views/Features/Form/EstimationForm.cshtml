@@ -1,0 +1,43 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+
+<style>
+    .form .message {
+        color: #fff;
+        font-size: 30px;
+        font-weight: 400;
+    }
+
+    .form .boxed-btn3-line  {
+        padding: 14px 31px !important;
+        border: 1px solid #FF3414 !important;
+        background: transparent !important;
+    }
+
+    .form .boxed-btn3-liner {
+        color: #FF3414 !important;
+    }
+
+    .form input[type=submit]:hover {
+        color: #FF3414 !important;
+    }
+</style>
+
+<div class="Estimate_area overlay">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-5">
+                <div class="Estimate_info">
+                    @Html.Sitecore().Placeholder("estimation-form-promo")
+                </div>
+            </div>
+            <div class="col-xl-8 col-lg-8 col-md-7">
+                <div class="form">
+                    @Html.Sitecore().Placeholder("estimation-form")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

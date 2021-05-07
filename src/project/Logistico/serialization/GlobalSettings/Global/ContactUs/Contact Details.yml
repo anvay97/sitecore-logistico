@@ -1,0 +1,14 @@
+﻿---
+ID: "a9a3f3c2-05fd-42b2-b648-ace9c5caa775"
+Parent: "7e880665-832b-4c80-a3f3-e9dcfd070d32"
+Template: "b7c96e42-a43f-4afc-961d-b94b39accc58"
+Path: /sitecore/content/Global/ContactUs/Contact Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200821T055010Z

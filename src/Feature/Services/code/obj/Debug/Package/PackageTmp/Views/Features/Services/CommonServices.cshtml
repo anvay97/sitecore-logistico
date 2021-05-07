@@ -1,0 +1,52 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Data
+@using Sitecore.Links
+@using Sitecore.Data.Items
+@using Sitecore.Globalization
+
+@model List<Item>
+
+@if (Model == null && Model.Count <= 0)
+{
+    return;
+}
+
+<div class="service_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="section_title mb-50 text-center">
+                    <h3>
+                        @Translate.Text("Service Text")
+                    </h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="service_active owl-carousel">
+                    @foreach (Item service in Model)
+                    {
+                        string itemURL = LinkManager.GetItemUrl(service);
+                        <div class="single_service">
+                            <div class="thumb">
+                                @Html.Sitecore().Field("Service Image", service)
+                            </div>
+                            <div class="service_info">
+                                <h3>
+                                    <a href="@itemURL">
+                                        @Html.Sitecore().Field("Service Title", service)
+                                    </a>
+                                </h3>
+                                <p>
+                                    @Html.Sitecore().Field("Service Summary", service)
+                                </p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

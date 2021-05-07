@@ -1,0 +1,14 @@
+﻿---
+ID: "3c72b653-fff3-4117-84ec-b77e951d2642"
+Parent: "c2503ef2-f657-4c19-8381-594c46160dae"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/Forms/Estimation Form/Page/Section/Section(7)/Section(15)/Delivery city/Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T052147Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "1d935f54-e8fe-467a-8e59-1d6d6a54e0df"
+Parent: "f1ad18ad-d4e0-4de7-99c7-2c12e558b365"
+Template: "9fcad58f-a563-44fa-a4e9-ce0e1d1c5493"
+Path: /sitecore/content/Home/Services/Air Freight/Brochures
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E490C442-B0BF-4213-B38C-813184CFDD79}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T111212Z

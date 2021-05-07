@@ -1,0 +1,28 @@
+﻿@using Sitecore.Mvc
+
+<div class="service_details_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-4">
+                <div class="service_details_left">
+                    <h3>Services</h3>
+                    @Html.Sitecore().Placeholder("Vertical-Nav")
+                </div>
+            </div>
+            <div class="col-lg-8 col-md-8">
+                <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel"
+                         aria-labelledby="v-pills-home-tab">
+                       
+                        @Html.Sitecore().Placeholder("ServiceDetailsInfo")
+
+                        <div class="accordion_area">
+                            @Html.Sitecore().Placeholder("FAQs")
+                        </div>                        
+                            @Html.Sitecore().Placeholder("Brochure")                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

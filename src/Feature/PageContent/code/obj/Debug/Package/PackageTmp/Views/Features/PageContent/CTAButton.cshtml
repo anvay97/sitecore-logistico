@@ -1,0 +1,14 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Data
+@using Sitecore.Data.Items
+
+@{
+    Database db = Sitecore.Context.Database;
+    string datasourcePath = RenderingContext.Current.Rendering.DataSource;
+    Item buttonItem = db.GetItem(datasourcePath);
+}
+
+
+
+@Html.Sitecore().Field("Link", buttonItem, new { @class = "boxed-btn3-line", text = @Html.Sitecore().Field("Label", buttonItem) })

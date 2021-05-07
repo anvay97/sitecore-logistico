@@ -1,0 +1,170 @@
+D:\Logistico_Project\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.dll.config
+D:\Logistico_Project\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.pdb
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\csc.exe
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\csc.exe.config
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\csc.rsp
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\csi.exe
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\csi.exe.config
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\csi.rsp
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.AppContext.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Console.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.Compression.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.Pipes.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.AccessControl.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Claims.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.ValueTuple.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Xml.XPath.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\vbc.exe
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\vbc.exe.config
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\vbc.rsp
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\VBCSCompiler.exe
+D:\Logistico_Project\src\project\Logistico\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Logistico_Project\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.csprojAssemblyReference.cache
+D:\Logistico_Project\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.csproj.CoreCompileInputs.cache
+D:\Logistico_Project\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.dll
+D:\Logistico_Project\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.pdb
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.dll.config
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.pdb
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\csc.exe
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\csc.exe.config
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\csc.rsp
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\csi.exe
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\csi.exe.config
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\csi.rsp
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.AppContext.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Console.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.Compression.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.IO.Pipes.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.AccessControl.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Claims.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.ValueTuple.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Xml.XPath.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\vbc.exe
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\vbc.exe.config
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\vbc.rsp
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\VBCSCompiler.exe
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.csprojAssemblyReference.cache
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.csproj.CoreCompileInputs.cache
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.dll
+D:\Anvay\SiteCore\Demo Sites\Logistico_Project\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.pdb
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.dll.config
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\Sitecore.Project.LogisticoWebsite.pdb
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\csc.exe
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\csc.exe.config
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\csc.rsp
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\csi.exe
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\csi.exe.config
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\csi.rsp
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.AppContext.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Console.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.IO.Compression.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.IO.Pipes.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Security.AccessControl.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Security.Claims.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.ValueTuple.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Xml.XPath.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\vbc.exe
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\vbc.exe.config
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\vbc.rsp
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\VBCSCompiler.exe
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.Helpers.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.Razor.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.WebPages.Deployment.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.WebPages.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.WebPages.Razor.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.Helpers.xml
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.Razor.xml
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.WebPages.xml
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.WebPages.Deployment.xml
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\bin\System.Web.WebPages.Razor.xml
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.csprojAssemblyReference.cache
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.csproj.CoreCompileInputs.cache
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.csproj.CopyComplete
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.dll
+D:\Anvay\Sitecore\Logistico\src\project\Logistico\code\obj\Debug\Sitecore.Project.LogisticoWebsite.pdb

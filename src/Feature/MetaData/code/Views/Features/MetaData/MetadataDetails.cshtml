@@ -1,0 +1,25 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Data.Items
+@using Sitecore.Data.Fields
+@using Sitecore.Links
+@using Sitecore.Links.UrlBuilders
+
+@{
+    Item currentItem = Sitecore.Context.Item;
+    ImageField img = currentItem.Fields["OG Image"];
+    string imgURL = img != null ? Sitecore.Resources.Media.MediaManager.GetMediaUrl(img.MediaItem, new MediaUrlBuilderOptions { AlwaysIncludeServerUrl = true }) : string.Empty;
+    string itemURL = LinkManager.GetItemUrl(currentItem, new ItemUrlBuilderOptions { AlwaysIncludeServerUrl = true });
+}
+
+<title>@Html.Sitecore().Field("Meta Title", currentItem, new { DisableWebEdit = true })</title>
+
+<!-- Meta Tags -->
+<meta name="description" content="@Html.Sitecore().Field("Meta Description", currentItem)">
+<meta name="keywords" content="@Html.Sitecore().Field("Meta Keywords", currentItem)">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="@Html.Sitecore().Field("OG Title", currentItem)" />
+<meta property="og:description" content="@Html.Sitecore().Field("OG Description", currentItem)" />
+<meta property="og:type" content="@Html.Sitecore().Field("OG Type", currentItem)" />
+<meta property="og:url" content="@itemURL" />
+<meta property="og:image" content="@imgURL" />

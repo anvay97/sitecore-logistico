@@ -1,0 +1,14 @@
+﻿---
+ID: "0d0d6466-3a76-43fa-aee8-14baee6275e2"
+Parent: "105e563c-f9d7-4718-816c-7ee37d7b764a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/Forms/Contact Form/Page/Section(10)/Submit Button/SubmitActions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T091945Z

@@ -1,0 +1,20 @@
+﻿---
+ID: "57c23e2e-1aa4-48e2-8a2a-2f12f5694976"
+Parent: "61ba9296-e281-458d-bede-daad4917f5ef"
+Template: "97a6108e-9a93-4f71-bb8b-5abb98fcda27"
+Path: /sitecore/content/Home/Services/Land Transport1/FAQs/Duis consectetur feugiat auctor
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200827T084704Z
+    - ID: "365a3140-5819-42e0-ba59-458c05c57919"
+      Hint: Answer
+      Value: Esteem spirit temper too say adieus who&nbsp; direct esteem esteems luckily or picture placing drawing.
+    - ID: "ca44b67b-f48d-4734-b622-8c7531d6d72f"
+      Hint: Question
+      Value: Duis consectetur feugiat auctor

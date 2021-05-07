@@ -1,0 +1,26 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Data
+@using Sitecore.Data.Items
+
+@{
+    Database db = Sitecore.Context.Database;
+    string datasourcePath = RenderingContext.Current.Rendering.DataSource;
+    Item socialItem = db.GetItem(datasourcePath);
+}
+    
+    <ul>
+        @if (socialItem != null)
+        {
+            foreach (Item child in socialItem.Children)
+            {
+                <li>
+                    @Html.Sitecore().Field("Social Link", child, new { @class = @Html.Sitecore().Field("Social Icon Css", child), text = " " })
+                </li>
+            }
+        }
+    </ul>
+
+
+
+

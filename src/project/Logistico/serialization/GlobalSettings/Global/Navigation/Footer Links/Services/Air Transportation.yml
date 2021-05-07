@@ -1,0 +1,21 @@
+﻿---
+ID: "ad759184-b40e-437a-8586-9340d0bb9b06"
+Parent: "cbe0978b-49c4-49c3-b3ef-5f3777130398"
+Template: "be94a9f9-b851-4e6b-9bad-b937a749aa0f"
+Path: /sitecore/content/Global/Navigation/Footer Links/Services/Air Transportation
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T093600Z
+    - ID: "4f58afdd-0de7-4262-8f8f-dc961a934556"
+      Hint: Nav Link
+      Value: |
+        <link linktype="external" url="https://www.google.com" anchor="" target="_blank" />
+    - ID: "e73422da-1f3c-47c3-a04e-10b354e54183"
+      Hint: Nav Title
+      Value: Air Transportation

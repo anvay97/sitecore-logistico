@@ -1,0 +1,18 @@
+﻿---
+ID: "961b5286-7010-4625-9ec5-929c81915230"
+Parent: "5b7965e3-8c17-4b4a-a0a4-e46cefd95dcd"
+Template: "f2acc572-715c-4b64-a106-6bf13197c66f"
+Path: /sitecore/content/Global/Success Figures
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T093443Z
+    - ID: "5b4a0dea-fa4e-4470-9fb4-1a1518469808"
+      Hint: Image
+      Value: |
+        <image mediaid="{84E980BE-9B16-44FD-A948-FF5B55A2F59D}" alt="bg image" height="" width="" hspace="" vspace="" />

@@ -1,0 +1,28 @@
+﻿---
+ID: "eec11547-65ec-41d1-b4a3-db34ef086224"
+Parent: "f8f2d378-42b9-4aad-b42b-7ab1276e0bca"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Logistico/Page Types/Service Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/star_yellow.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {1D2BB6A2-F071-415C-8D40-AC313AD72BCC}
+    {2B81C30F-7D10-41AC-A44F-22DD94CDBE35}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{0CC5DD6F-E29D-4E5D-B565-5FE341B440B9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T110543Z

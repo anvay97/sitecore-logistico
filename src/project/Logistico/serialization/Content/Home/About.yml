@@ -1,0 +1,182 @@
+﻿---
+ID: "565a6e7d-2c1d-4acc-9b55-5a75fee295a8"
+Parent: "badd4f5c-3942-42e5-824c-8a7879269b92"
+Template: "b9944c18-a244-4ed2-95ca-b386620ae295"
+Path: /sitecore/content/Home/About
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{23BEF062-42B1-4CCE-966C-1B7DE2A12542}">
+        <r
+          id="{673C4C9D-0248-444E-9FAC-32C2C4442AC4}"
+          ph="header"
+          uid="{9EE4DA89-2CC9-4A68-A81D-C30D68D68961}" />
+        <r
+          ds="{9BB538E1-55AE-47D7-AAD6-CA220B66A42C}"
+          id="{094030F6-55F2-4D79-AD62-32206EA0FDF7}"
+          par=""
+          ph="header-nav"
+          uid="{48222846-D524-4160-AE18-FF310D738A2E}" />
+        <r
+          id="{60D28252-1BB9-4397-9E75-7263F950DE4D}"
+          ph="footer"
+          uid="{DE8587BE-2E10-4EF7-9769-08E3CE231512}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="header-logo"
+          uid="{1077C699-9990-4F2D-B33F-0B02B1B86CDE}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="header-logo-1"
+          uid="{5B63A792-1108-487B-9B6C-D23243843BAC}" />
+        <r
+          id="{E1EB8E63-BA41-4AB8-BAB7-59F4732AB3B0}"
+          ph="copyright-text"
+          uid="{D04E5918-F192-46D1-AF4E-5F39C3B5B152}" />
+        <r
+          ds=""
+          id="{1AB02A79-962F-4B08-A39C-B101AF87D2F8}"
+          par="cs=org"
+          ph="main"
+          uid="{4E6490A1-22F7-464E-BA8F-DA0550470EEC}" />
+        <r
+          id="{42B2A03B-24C4-4CDA-8B4E-5400EA88CC95}"
+          ph="header-rightcorner"
+          uid="{2CCFD3D5-5E91-4BD3-A358-2D002A7F3FA7}" />
+        <r
+          ds="{AB6EF884-B9B5-4668-AF2F-EF097CE3402A}"
+          id="{64D8DB8F-F97F-4F41-8A9B-50EF1EB91B4A}"
+          par=""
+          ph="header-cta"
+          uid="{71B7787C-ABCA-427D-9339-4FA011218A58}" />
+        <r
+          id="{3189C11A-62E8-467C-9E78-3807E197ADC4}"
+          ph="main"
+          uid="{26F4371A-EB9D-4EAD-A36D-F855F2E74554}" />
+        <r
+          ds="{8FAF7951-9E13-46EA-B750-C2598EC9CCE1}"
+          id="{64D8DB8F-F97F-4F41-8A9B-50EF1EB91B4A}"
+          par=""
+          ph="about-cta-button"
+          uid="{379584D1-CBB8-4B3A-B520-3221E0E821B7}" />
+        <r
+          ds="{5EE0D879-4685-4A0B-B78B-98B9A614B00E}"
+          id="{6975DA02-523F-44A5-A29A-9F4601CF1ED1}"
+          par=""
+          ph="footer-links"
+          uid="{424D1FBD-B466-47E2-874D-C37BDE54985E}" />
+        <r
+          ds="{4F8C906F-C132-46C1-81A6-4B74912E7687}"
+          id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+          par=""
+          ph="subscribe_form"
+          uid="{13D60B4B-AC52-48BC-A651-319679EBD5EC}" />
+        <r
+          ds=""
+          id="{B03478B5-E99D-497F-808F-E74F8BF9ADAE}"
+          par=""
+          ph="subscribe-form"
+          uid="{4E54E0ED-1893-4BAD-864B-E9B262AE3607}" />
+        <r
+          ds="{961B5286-7010-4625-9EC5-929C81915230}"
+          id="{BC45A961-0433-4787-9525-59189A06A76C}"
+          par=""
+          ph="main"
+          uid="{A00880E3-A185-474A-AF7D-EE387E329840}" />
+        <r
+          ds="{9EC0A178-0D88-4020-94F1-14C29FB8F2C9}"
+          id="{B099E49C-24C4-4328-A25D-7E98937DD61E}"
+          par=""
+          ph="main"
+          uid="{B275C764-E6B5-4B64-AA18-C23432974E2C}" />
+        <r
+          ds="{96ED43C1-53C7-440C-AE15-E8DEF4BBA917}"
+          id="{11F35189-15CE-42CD-A33A-0E6BA49E1AF3}"
+          par=""
+          ph="main"
+          uid="{F59A7945-C4F1-47B7-BA37-45AB74908BFF}" />
+        <r
+          ds="{B33699CF-CCDC-475D-A549-F7B3B40BAFC0}"
+          id="{25F11C3E-032A-4F3A-858B-AE38C3D54553}"
+          par=""
+          ph="main"
+          uid="{3DE38975-2E2D-478A-BF93-15C13395C167}" />
+        <r
+          id="{75F59677-3D16-47CE-9534-538677B7F8E0}"
+          ph="main"
+          uid="{F84BC709-BEB5-4C91-B369-190CE376814F}" />
+        <r
+          id="{9EF6EE66-AC75-48AC-B1D8-CB6829F5FD57}"
+          ph="main"
+          uid="{DB42CA86-BCF7-4D9F-B01A-C9A5973508CB}" />
+        <r
+          id="{062C6DB3-EFA9-4733-811D-5AFE8582A67F}"
+          ph="bottom-logo"
+          uid="{256A42F6-718D-4DFC-B6D8-B423F18DFC7D}" />
+        <r
+          ds="{188310BB-8D03-4B11-9675-6A520B4164A9}"
+          id="{D19287DD-ED5C-44BF-80EB-2E01BD26657D}"
+          par=""
+          ph="social-media"
+          uid="{8AA975DB-B42C-4889-B7D8-E948EA05C37E}" />
+        <r
+          ds="{E3D47521-7A69-43F5-9001-EC0BC4057A0B}"
+          id="{C20DCC8C-9081-4D71-9137-9756D40C6D3C}"
+          par=""
+          ph="bottom-location"
+          uid="{01025A27-B490-4ED5-9F30-3DD5563801AB}" />
+        <r
+          id="{FF8B467A-4A1A-46E9-A4B5-1BBEF06D9330}"
+          ph="metadata"
+          uid="{1B82E993-A157-456F-B3CA-E9BCC158F910}" />
+        <r
+          ds="{E2A3D098-C749-4679-BB2A-C3ACA007AAA1}"
+          id="{78ECEE16-BB50-4311-95B1-563A715059F7}"
+          par=""
+          ph="estimation-form-promo"
+          uid="{E75079E0-8162-468B-815F-8AB2138890B2}" />
+        <r
+          ds="{DFF81D9E-3D1F-45E7-9A32-625FFE4F0441}"
+          id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+          par=""
+          ph="estimation-form"
+          uid="{29BACF88-A226-4455-975E-191A6D5C9743}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c31b06a-1e0c-4d49-9568-fe87f9c06c58"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{AA65D200-76B4-47F7-8FEC-32B85F4B2A87}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T124311Z
+    - ID: "50b0c548-2176-4a00-964f-c6c388a623cb"
+      Hint: OG Title
+      Value: About | Logistico
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8db7ae53-02a4-4414-906a-89645979024a"
+      Hint: Meta Title
+      Value: About | Logistico
+    - ID: "d935f81c-1348-4876-9b12-536afa8858c4"
+      Hint: Label
+      Value: 
+    - ID: "eed828e9-636a-4506-a298-846164670f83"
+      Hint: Banner Title
+      Value: About Us
+    - ID: "f2a2172b-0e27-40fc-b86f-779c06139eff"
+      Hint: Link
+      Value: 

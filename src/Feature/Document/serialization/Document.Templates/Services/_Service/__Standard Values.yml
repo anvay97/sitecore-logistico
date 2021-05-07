@@ -1,0 +1,21 @@
+﻿---
+ID: "635dfcae-a602-4f62-80df-c3a5bd22d6d7"
+Parent: "2b81c30f-7d10-41ac-a44f-22dd94cdbe35"
+Template: "2b81c30f-7d10-41ac-a44f-22dd94cdbe35"
+Path: /sitecore/templates/Feature/Services/_Service/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15f520ac-4935-49cb-9cb2-7529f320652b"
+      Hint: Service Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T110010Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

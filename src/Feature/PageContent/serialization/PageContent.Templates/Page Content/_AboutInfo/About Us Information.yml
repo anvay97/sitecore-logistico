@@ -1,0 +1,14 @@
+﻿---
+ID: "c03d1633-3a82-4cf9-b9ed-75bf99954897"
+Parent: "081c9893-5cb7-4693-8ce0-1318a961121f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Page Content/_AboutInfo/About Us Information
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T083827Z

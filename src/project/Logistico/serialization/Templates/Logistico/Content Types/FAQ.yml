@@ -1,0 +1,24 @@
+﻿---
+ID: "97a6108e-9a93-4f71-bb8b-5abb98fcda27"
+Parent: "7e8ba467-c828-4aa0-b2a3-adcb81e8af08"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Logistico/Content Types/FAQ
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/form_yellow.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {6ABD5443-76CF-4F9C-A0AD-08A789FBBC5B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T110332Z
